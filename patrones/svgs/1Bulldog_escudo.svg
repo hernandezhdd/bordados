@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="60mm"
+   height="60mm"
+   viewBox="0 0 170.07874 170.07874"
+   preserveAspectRatio="xMidYMid"
+   id="svg10"
+   sodipodi:docname="1Bulldog_escudo.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkstitch="http://inkstitch.org/namespace">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="2.5660378"
+     inkscape:cx="128.99265"
+     inkscape:cy="112.625"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <metadata
+     id="metadata45">
+    <inkstitch:min_stitch_len_mm>0</inkstitch:min_stitch_len_mm>
+    <inkstitch:collapse_len_mm>3</inkstitch:collapse_len_mm>
+    <inkstitch:inkstitch_svg_version>1</inkstitch:inkstitch_svg_version>
+  </metadata>
+  <defs
+     id="defs10">
+    <symbol
+       id="inkstitch_trim">
+      <title
+         id="inkstitch_title9282">Trim the thread after sewing this object.</title>
+      <path
+         id="inkstitch_circle13405"
+         d="m 9.2465284,-8.6e-6 c 1.8e-6,2.452339 -0.9741847,4.804237 -2.7082493,6.538304 C 4.8042146,8.2723614 2.4523174,9.2465504 -2.1625959e-5,9.2465514 -2.4523623,9.2465534 -4.8042621,8.2723654 -6.5383288,6.5382984 -8.2723956,4.8042314 -9.2465834,2.4523324 -9.2465816,-8.6e-6 c 6e-7,-2.452339 0.9741895,-4.804237 2.708256,-6.538301 1.7340665,-1.734065 4.0859648,-2.708252 6.538303974041,-2.70825 C 5.1067066,-9.2465576 9.2465271,-5.1067366 9.2465284,-8.6e-6 c 0,0 0,0 0,0"
+         style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:1.06500006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.19500017, 3.19500017;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#050505;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m -3.0000256,-5.9834096 c -1.30575,0 -2.375,1.06924 -2.375,2.375 0,1.30575 1.06925,2.375 2.375,2.375 0.58687,0 1.11944,-0.22369 1.53516,-0.58007 0,0 0.61717997,1.62109 0.61717997,1.62109 0,0 -2.29881997,6.01758 -2.29881997,6.01758 0.98655,-0.12511 1.23728,-0.26171 1.67382,-0.97461 0,0 1.33007997,-3.18945 1.33007997,-3.18945 0,0 1.23633003,3.25 1.23633003,3.25 0.23227,0.77906 0.84315,0.79218 1.57813,1.07226 0,0 -2.05469003,-6.14258 -2.05469003,-6.14258 0,0 0.73047003,-1.75 0.73047003,-1.75 0.42849,0.41682 1.01136,0.67578 1.65234,0.67578 1.30575,0 2.375,-1.06925 2.375,-2.375 0,-1.30576 -1.06925,-2.375 -2.375,-2.375 -1.06233,0 -1.95701,0.71265 -2.25781003,1.67969 0,0 -0.0117,-0.0156 -0.0117,-0.0156 0,0 -0.80274,2.10156 -0.80274,2.10156 0,0 -0.59179,-1.76562 -0.59179,-1.76562 -0.18242,-1.12808 -1.15864997,-2 -2.33593997,-2 0,0 -2e-5,-3e-5 -2e-5,-3e-5 m 0,1 c 0.76531,0 1.375,0.60968 1.375,1.375 0,0.76531 -0.60969,1.375 -1.375,1.375 -0.76531,0 -1.375,-0.60969 -1.375,-1.375 0,-0.76532 0.60969,-1.375 1.375,-1.375 0,0 0,0 0,0 m 6,0 c 0.76531,0 1.375,0.60968 1.375,1.375 0,0.76531 -0.60969,1.375 -1.375,1.375 -0.76531,0 -1.375,-0.60969 -1.375,-1.375 0,-0.76532 0.60969,-1.375 1.375,-1.375 0,0 0,0 0,0"
+         id="inkstitch_path13416"
+         inkscape:connector-curvature="0" />
+    </symbol>
+  </defs>
+  <path
+     style="fill:#ffffff;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:0"
+     d="m 72.40456,154.86282 c -8.034936,-4.6801 -18.910509,-10.97807 -24.167937,-13.99549 -5.257428,-3.01741 -12.84598,-7.41588 -16.863449,-9.77437 l -7.304488,-4.28817 V 67.539487 8.274188 h 63.685039 63.685035 l -0.10893,59.144556 c -0.0958,52.003326 -0.17427,59.207806 -0.65001,59.668406 -0.57736,0.559 -5.23571,3.28893 -32.82511,19.23654 -27.738869,16.03402 -29.553959,17.05843 -30.215314,17.05329 -0.344224,-0.003 -7.199899,-3.83405 -15.234836,-8.51416 z m 17.955883,-0.46032 c 1.135103,-0.57398 4.823299,-2.65482 8.195987,-4.62409 3.37269,-1.96927 15.10046,-8.7496 26.06169,-15.06739 l 19.92953,-11.48691 V 81.7663 40.308497 l -56.001076,0.23413 C 57.745985,40.671399 32.180275,40.852421 31.73389,40.944899 l -0.81161,0.168142 0.0055,40.844158 c 0.0031,22.464291 0.124779,41.016471 0.270536,41.227071 0.145758,0.2106 2.537521,1.68353 5.31503,3.27317 2.777509,1.58965 9.513871,5.4968 14.969693,8.68257 29.406648,17.17114 34.865139,20.26289 35.811297,20.28387 0.55124,0.0122 1.930979,-0.4474 3.066083,-1.02138 z"
+     id="path1"
+     sodipodi:nodetypes="ssscccccssscsssscccssccssssss" />
+  <path
+     style="fill:none;stroke:none;stroke-width:0.330068px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 49.723885,133.4493 27.284711,16.12906"
+     id="path38" />
+  <path
+     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.360164;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="m 71.059882,144.30873 c -3.18358,-1.81704 -9.244992,-5.30344 -13.4698,-7.74754 l -7.681469,-4.44383 0.156651,-3.06318 c 0.08616,-1.68475 0.15665,-21.81623 0.15665,-44.736611 V 42.644144 L 63.2778,42.832706 c 7.180738,0.103707 13.088778,0.22118 13.128985,0.261053 0.08779,0.08707 0.589123,104.402881 0.502078,104.471141 -0.03336,0.0262 -2.665405,-1.43912 -5.848981,-3.25617 z"
+     id="path45" />
+  <path
+     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.360164;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="m 98.71904,121.76269 c 0.0749,-14.11386 0.20556,-37.614454 0.29047,-52.223538 l 0.15435,-26.561974 h 10.99193 c 6.04557,0 11.85887,-0.07329 12.91847,-0.162855 l 1.92653,-0.162847 0.17135,8.330816 c 0.0942,4.58195 0.17543,24.711773 0.18042,44.732945 l 0.009,36.402123 -13.19459,7.64334 c -7.25703,4.20383 -13.28223,7.64788 -13.38935,7.65345 -0.10713,0.005 -0.13352,-11.5376 -0.0587,-25.65146 z"
+     id="path46" />
+  <g
+     inkscape:label="Letras de Ink/Stitch"
+     transform="matrix(0.968243 0 0 0.968243 32.0985 34.2292)"
+     id="g6734"
+     inkstitch:lettering="{&quot;text&quot;: &quot;C A B D&quot;, &quot;back_and_forth&quot;: false, &quot;font&quot;: &quot;small_font&quot;, &quot;scale&quot;: 100, &quot;trim_option&quot;: 3, &quot;use_trim_symbols&quot;: false}"
+     style="stroke:#ff0000;stroke-opacity:1">
+    <g
+       inkscape:label="C A B D"
+       id="g6770"
+       style="stroke:#ff0000;stroke-opacity:1">
+      <g
+         inkscape:label="C"
+         id="glyph"
+         style="stroke:#ff0000;stroke-opacity:1">
+        <path
+           d="m 44.7914,33.4631 -0.0095,-0.2028 0.0901,-1.3462 0.1036,-1.344 0.1436,-0.6314 v 0 l 0.1555,-0.684 0.3428,-1.3008 0.5404,-1.2358 0.074,-0.1332 v 0 l 0.5771,-1.039 0.7909,-1.0926 0.7257,-0.7031 v 0 l 0.2263,-0.2192 1.0084,-0.8372 1.1611,-0.6161 0.5615,-0.2322 v 0 l 0.6461,-0.2671 1.2671,-0.3497 1.2956,-0.1886 0.2242,-0.0182 v 0 l 1.0859,-0.0882 1.4507,0.0571 1.0004,0.1097 v 0 l 0.4856,0.0533 1.4496,0.3745 1.456,0.566 v 0 l 0.0453,0.0176 1.5179,0.7913 1.4789,1.0038"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+           inkstitch:running_stitch_length_mm="1.2"
+           transform="matrix(0.716319 0 0 0.716319 -30.6839 -33.4022)"
+           id="autosatinrun1"
+           inkscape:label="AutoSatinar Puntada corriente 1" />
+        <path
+           sodipodi:nodetypes="ccscccsccccscccscc"
+           inkscape:connector-curvature="0"
+           d="m 64.6862,21.9742 c -1.2582,-0.859 -2.6074,-1.5003 -4.0471,-1.9237 -1.4277,-0.4356 -2.9522,-0.6534 -4.5734,-0.6534 -4.1015,0 -7.3319,1.2584 -9.6912,3.7749 -2.3593,2.5045 -3.5389,5.9345 -3.5389,10.2901 0,4.3436 1.1796,7.7735 3.5389,10.2901 2.3593,2.5045 5.5897,3.7567 9.6912,3.7567 1.5971,0 3.1094,-0.2178 4.5371,-0.6533 1.4397,-0.4356 2.8009,-1.0889 4.0834,-1.9601 m 0,-19.0557 c -1.2341,-1.1494 -2.5529,-2.0085 -3.9563,-2.5771 -1.3915,-0.5686 -2.8735,-0.8529 -4.4464,-0.8529 -3.0974,0 -5.4686,0.9497 -7.1141,2.8492 -1.6455,1.8875 -2.4682,4.6219 -2.4682,8.2031 0,3.5692 0.8227,6.3035 2.4682,8.203 1.6455,1.8875 4.0167,2.8312 7.1141,2.8312 1.5729,0 3.0549,-0.2844 4.4464,-0.853 1.4034,-0.5686 2.7222,-1.4277 3.9563,-2.5771"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="autosatin1_1508"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:contour_underlay="False"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:satin_column="True"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -30.6839 -33.4022)"
+           inkscape:label="AutoSatinado 2"
+           inkstitch:trim_after="true" />
+      </g>
+      <g
+         id="g8"
+         inkscape:label="A"
+         transform="translate(32.652, 0)"
+         style="stroke:#ff0000;stroke-opacity:1">
+        <path
+           d="m 95.3059,38.4949 h 1.3962 1.3702 0.8962 v 0 h 0.474 1.3705 1.37 0.448 v 0 h 0.922 1.37 1.371"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+           inkstitch:running_stitch_length_mm="1.2"
+           transform="matrix(0.716319 0 0 0.716319 -63.3359 -33.4022)"
+           id="autosatinrun2"
+           inkscape:label="AutoSatinar Puntada corriente 3" />
+        <path
+           inkscape:connector-curvature="0"
+           id="autosatin2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 105.823,36.5875 h -9.9635 m 11.1065,3.8148 H 94.7524 m 0.1447,0.1907 1.2177,-4.1962"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:contour_underlay="False"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:satin_column="True"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -63.3359 -33.4022)"
+           inkscape:label="AutoSatinado 4" />
+        <path
+           d="m 94.1071,36.7801 -0.31,0.8139 -0.5691,1.5101 -0.3679,0.9717 v 0 l -0.204,0.539 -0.5762,1.5117 -0.4735,1.2425 v 0 l -0.1026,0.2692 -0.5762,1.5117 -0.5762,1.5118"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+           inkstitch:running_stitch_length_mm="1.2"
+           transform="matrix(0.716319 0 0 0.716319 -63.3359 -33.4022)"
+           id="autosatinrun3"
+           inkscape:label="AutoSatinar Puntada corriente 5" />
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="autosatin3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 92.2842,46.6617 2.4682,-6.6423 1.1071,-3.049 5.3635,-14.2359 V 20.2352 M 88.4186,46.6617 98.7632,20.1832 m -6.1255,12.5232 h 5.7437"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -63.3359 -33.4022)"
+           inkscape:label="AutoSatinado 6" />
+        <path
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="autosatin4_4151"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 102.919,20.1832 10.2,26.4627 M 100.44,20.283 v 2.4054 l 9.06,23.9417 m -6.715,-13.9716 h 6.27"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -63.3359 -33.4022)"
+           inkscape:label="AutoSatinado 7"
+           inkstitch:trim_after="true" />
+      </g>
+      <g
+         inkscape:label="B"
+         id="g9"
+         transform="translate(67.3451, 0)"
+         style="stroke:#ff0000;stroke-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 136.851,46.7002 V 20.179 m 3.666,26.4761 V 20.1284"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="autosatin5"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -98.029 -33.4022)"
+           inkscape:label="AutoSatinado 8" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 140.593,19.8919 h 5.623 c 2.794,0 4.948,0.5807 6.46,1.7422 1.513,1.1615 2.269,2.813 2.269,4.9545 0,1.6575 -0.387,2.9763 -1.161,3.9564 -0.775,0.98 -1.912,1.591 -3.412,1.8329 m -9.855,-9.4734 h 5.426 c 1.791,0 3.505,0.1473 4.376,0.8249 0.883,0.6775 1.612,1.6998 1.612,3.0671 0,1.3793 -1.112,2.5991 -1.995,3.2766 -0.617,0.4713 -1.464,0.7756 -2.543,0.9131"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="autosatin6"
+           inkstitch:running_stitch_length_mm="1.5"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:repeats=""
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -98.029 -33.4022)"
+           inkscape:label="AutoSatinado 9" />
+        <path
+           d="m 147.469,32.7677 -0.163,-0.0438 -1.36,-0.1859 -1.43,0.0214 h -0.514 v 0 h -0.819 -1.333 -1.333"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+           inkstitch:running_stitch_length_mm="1.2"
+           transform="matrix(0.716319 0 0 0.716319 -98.029 -33.4022)"
+           id="autosatinrun4"
+           inkscape:label="AutoSatinar Puntada corriente 10" />
+        <path
+           inkscape:connector-curvature="0"
+           id="autosatin7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 140.517,31.0713 h 5.426 l 1.329,-0.0779 3.1,1.3845 1.276,0.3698 1.124,0.5286 0.972,0.6873 0.82,0.8462 0.659,0.9743 0.471,1.0901 0.282,1.2057 0.094,1.3214 -0.031,0.3412 m -15.522,-5.6949 h 5.88 l 1.383,0.076 1.19,0.228 0.997,0.3799 0.804,0.532 0.732,0.6978 0.678,0.8836 0.499,1.0515 0.195,1.2014 -0.056,0.518 m 4.478,-0.737 -5.504,0.1437"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -98.029 -33.4022)"
+           inkscape:label="AutoSatinado 11" />
+        <path
+           d="m 154.414,39.258 0.015,0.4212 -0.191,1.3033 -0.462,1.2333 -0.24,0.3558 v 0 l -0.498,0.7347 -1.087,0.9166 -1.066,0.4974 v 0 l -0.278,0.13 -1.48,0.3474 -1.521,0.2163 -0.121,0.0047 v 0 l -1.424,0.0547 -1.485,0.0076 H 144 v 0 h -0.838 -1.324 -1.323"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+           inkstitch:running_stitch_length_mm="1.2"
+           transform="matrix(0.716319 0 0 0.716319 -98.029 -33.4022)"
+           id="autosatinrun5"
+           inkscape:label="AutoSatinar Puntada corriente 12" />
+        <path
+           inkscape:connector-curvature="0"
+           id="autosatin8_1913"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 140.517,43.9747 h 5.88 l 2.788,-0.2322 1.145,-0.3306 0.872,-0.5095 0.664,-0.7051 0.531,-0.8751 0.351,-1.0361 0.071,-0.6703 m -12.322,7.3716 h 6.082 l 2.147,-0.1237 1.886,-0.3709 1.626,-0.6181 1.364,-0.8655 1.08,-1.0923 0.771,-1.2988 0.463,-1.5052 0.123,-1.3704 m 0.135,0.3052 -3.548,-0.1399"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -98.029 -33.4022)"
+           inkscape:label="AutoSatinado 13"
+           inkstitch:trim_after="true" />
+      </g>
+      <g
+         id="g10"
+         inkscape:label="D"
+         transform="translate(98.9909, 0)"
+         style="stroke:#ff0000;stroke-opacity:1">
+        <path
+           d="m 182.862,38.8325 v -0.0884 -1.5088 -1.5088 -0.6221 0 -0.8868 -1.5088 -1.3325 0 -0.1763 -1.5088 -1.5089 -0.5341 0 -0.9747 -1.5088 -1.2446 0 -0.2643 -1.5088 -1.5088 -0.4462"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+           inkstitch:running_stitch_length_mm="1.2"
+           transform="matrix(0.716319 0 0 0.716319 -129.675 -33.4022)"
+           id="autosatinrun6"
+           inkscape:label="AutoSatinar Puntada corriente 14" />
+        <path
+           id="autosatin9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 184.695,20.2261 V 46.2715 M 181.029,20.158 v 26.1478 m -0.183,-0.1983 4.033,-0.0377"
+           inkscape:connector-curvature="0"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -129.675 -33.4022)"
+           inkscape:label="AutoSatinado 15" />
+        <path
+           id="autosatin10"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 184.695,43.9024 h 4.428 l 2.616,-0.1588 2.239,-0.4764 1.862,-0.794 1.486,-1.1116 1.143,-1.4541 0.817,-1.8216 0.49,-2.1892 0.123,-1.9173 m -15.2,12.9356 h 3.862 l 3.661,-0.2053 3.145,-0.6159 2.627,-1.0265 1.119,-0.6672 0.99,-0.7699 0.868,-0.8794 0.752,-0.9956 0.636,-1.1119 0.521,-1.2281 0.694,-2.805 0.173,-2.4379 m -3.505,9.5713 -3.055,-2.4954 m -8.654,5.8175 0.618,-3.3139 m 14.767,-9.2706 -4.231,-0.212"
+           inkscape:connector-curvature="0"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -129.675 -33.4022)"
+           inkscape:label="AutoSatinado 16" />
+        <path
+           d="m 201.828,33.3529 0.004,-0.6104 -0.091,-1.3329 -0.151,-1.3237 -0.053,-0.2252 v 0 l -0.256,-1.0745 -0.39,-1.2725 -0.463,-0.9696 v 0 l -0.112,-0.2346 -0.744,-1.1032 -0.885,-0.9961 -0.471,-0.3501 v 0 l -0.57,-0.4233 -1.123,-0.6366 -1.202,-0.4874 -0.203,-0.0625 v 0 l -1.032,-0.3171 -1.271,-0.2577 -1.121,-0.1697 v 0 l -0.159,-0.0241 -1.296,-0.075 -1.295,-0.0749 -0.754,-0.0032 v 0 l -0.668,-0.0027 h -1.421 -1.421"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+           inkstitch:running_stitch_length_mm="1.2"
+           transform="matrix(0.716319 0 0 0.716319 -129.675 -33.4022)"
+           id="autosatinrun7"
+           inkscape:label="AutoSatinar Puntada corriente 17" />
+        <path
+           id="autosatin11_5769"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 184.665,19.8196 h 3.896 l 3.676,0.2053 3.152,0.6159 2.628,1.0265 1.118,0.6672 0.987,0.7699 0.863,0.8745 0.748,0.9903 0.634,1.1059 0.518,1.2216 0.69,2.7903 0.231,3.2531 -0.059,0.8322 M 184.695,22.8322 h 4.428 l 2.616,0.1588 2.239,0.4764 1.862,0.794 1.486,1.1116 1.143,1.4439 0.817,1.8092 0.49,2.1744 0.164,2.5396 -0.041,0.6393 m -11.366,-14.3105 0.618,3.3139 m 11.11,0.0082 -3.075,2.4954 m 6.813,7.8537 h -4.253"
+           inkscape:connector-curvature="0"
+           inkstitch:zigzag_spacing_mm="0.4"
+           inkstitch:satin_column="True"
+           inkstitch:pull_compensation_mm="0.2"
+           inkstitch:center_walk_underlay="True"
+           inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+           inkstitch:contour_underlay="False"
+           inkstitch:zigzag_underlay="False"
+           inkstitch:fill_underlay="False"
+           inkstitch:reverse_rails="none"
+           transform="matrix(0.716319 0 0 0.716319 -129.675 -33.4022)"
+           inkscape:label="AutoSatinado 18"
+           inkstitch:trim_after="true" />
+      </g>
+    </g>
+  </g>
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.257259;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-opacity:1"
+     d="m 86.881296,155.22258 c -0.282982,-0.067 -2.6114,-1.3404 -5.174258,-2.82973 L 77.047289,149.68499 76.856808,96.395398 C 76.752045,67.086122 76.613593,43.018983 76.549141,42.912863 76.484686,42.806744 70.534692,42.719919 63.326932,42.719919 H 50.221914 l -3.3e-4,36.723695 c -2.25e-4,20.198036 -0.07701,40.639376 -0.170632,45.425206 -0.163304,8.34776 -0.189895,8.69636 -0.654142,8.57495 -0.266154,-0.0695 -4.453853,-2.39429 -9.306002,-5.166 L 31.26873,123.23832 31.09816,111.23533 C 31.004342,104.63369 30.927582,86.183256 30.927582,70.234345 V 41.236347 l 0.707462,-0.197345 c 0.389102,-0.10854 25.915615,-0.244224 56.725573,-0.30152 l 56.018033,-0.104169 v 41.246053 41.246064 l -9.28316,5.35309 c -5.10574,2.9442 -9.36015,5.27613 -9.45426,5.18206 -0.0941,-0.0941 -0.20752,-20.59525 -0.25202,-45.558176 l -0.0809,-45.387141 -13.16792,0.06665 -13.16791,0.06665 -0.22753,53.38121 -0.22753,53.381207 -3.742116,2.1867 c -5.823198,3.40278 -6.587477,3.73437 -7.89399,3.42492 z"
+     id="path11" />
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0321574;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-opacity:1"
+     d="m 86.151117,155.06841 c -1.722898,-1.01655 -4.699265,-2.74655 -6.399313,-3.71956 -1.034667,-0.59219 -2.394921,-1.37662 -3.022793,-1.74318 -0.627873,-0.36656 -1.937482,-1.12634 -2.910244,-1.6884 -0.972759,-0.56206 -2.318543,-1.34316 -2.990632,-1.73579 -3.4275,-2.00229 -12.132572,-7.03374 -16.078675,-9.29331 -0.795899,-0.45574 -1.671381,-0.96255 -1.945521,-1.12626 -0.922888,-0.55111 -4.176236,-2.46177 -7.042462,-4.13597 l -2.845925,-1.66234 -0.0081,-4.21566 -0.0081,-4.21566 h 0.643267 0.643267 v 3.62581 3.62581 l 0.619027,0.37282 c 0.340468,0.20505 1.255746,0.75628 2.033953,1.22492 5.401457,3.25286 20.536908,12.04335 21.41734,12.43893 0.36561,0.16427 3.762158,2.11118 6.591717,3.77839 2.181387,1.2853 6.209968,3.646 9.462299,5.54479 l 2.548469,1.48786 v 0.91334 c 0,0.50233 -0.01091,0.91313 -0.02409,0.91288 -0.01326,-2.5e-4 -0.320768,-0.17549 -0.683343,-0.38942 z"
+     id="path31-9" />
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0454772;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-opacity:1"
+     d="m 91.203593,153.25058 c -0.712825,-0.29866 -1.65094,-0.80984 -3.934193,-2.14375 -0.95069,-0.55541 -2.894845,-1.67489 -4.320342,-2.48775 l 7.178669,2.33998 c 0.714475,0.43835 0.950917,0.53559 1.302255,0.53559 0.510941,0 0.756224,-0.11379 2.801638,-1.29975 0.702415,-0.40727 1.65403,-0.94935 2.114697,-1.20462 2.315813,-1.28327 22.501263,-12.92383 26.213943,-15.11709 2.09316,-1.23653 9.80873,-5.72324 11.9037,-6.92217 0.0188,-0.0107 0.0334,0.3961 0.0326,0.90408 l -0.002,0.9236 -0.82846,0.47594 c -0.45565,0.26175 -1.25822,0.72979 -1.78348,1.04007 -2.36605,1.39763 -2.76277,1.62934 -3.87123,2.26094 -1.37906,0.78579 -7.87672,4.5409 -10.6588,6.1599 -5.70978,3.32273 -17.31305,9.98396 -21.010534,12.06176 -2.960596,1.6637 -4.689213,2.58557 -4.837742,2.57999 -0.0281,-8.7e-4 -0.163634,-0.0491 -0.301203,-0.10672 z"
+     id="path33-8"
+     sodipodi:nodetypes="csccsssssccsssssccc" />
+  <path
+     id="path2"
+     style="fill:none;stroke:#ff0000;stroke-width:0.73922px"
+     d="m 85.437677,163.07022 -55.224812,-31.8945 -5.749262,-3.48426 -0.952351,-0.72228 -0.07119,-0.0932 -0.145557,-2.51817 -0.08326,-9.45888 0.07439,-47.795735 L 23.496027,22.748467 23.621163,11.240379 23.73305,7.8869843 23.80953,7.8556473 42.846662,7.6710645 87.978807,7.5192573 151.49691,7.3926265 M 83.956843,165.62864 28.718509,133.72633 l -0.02687,-0.016 -5.828478,-3.53227 -0.127217,-0.0864 -1.173565,-0.89006 -0.281597,-0.28064 -0.467518,-0.61218 -0.300686,-0.81104 -0.173739,-3.00572 -0.0024,-0.0722 -0.08366,-9.50264 -5.5e-5,-0.0153 0.07441,-47.805731 1.5e-5,-0.0047 0.210424,-44.361605 7.1e-5,-0.0091 0.125366,-11.529201 7.34e-4,-0.03317 0.136017,-4.0766309 0.476691,-1.0380264 0.480979,-0.4421805 0.44031,-0.2798217 0.75183,-0.3080857 0.547074,-0.1104913 19.325995,-0.1873634 0.0094,-6.11e-5 45.137847,-0.1518264 0.0021,-5.4e-6 63.519123,-0.1266329 M 43.897523,138.22574 l -2.221251,3.83762 m -17.712673,-35.34602 -4.437752,-0.007 m 4.693776,-80.582295 -4.437708,-0.021 M 38.55664,8.4515049 38.513571,4.0188274"
+     inkstitch:satin_column="true"
+     inkscape:label="borde izq" />
+  <path
+     id="path3"
+     style="fill:none;stroke:#ff0000;stroke-width:0.73922px"
+     d="m 150.48109,6.9919201 0.90488,0.8491793 V 126.84169 l -0.14076,0.1521 -2.01759,1.37054 -4.31784,2.57141 -14.40289,8.33509 -32.085966,18.50611 -8.548135,4.75924 -2.24725,1.17253 -0.405787,0.1693 -0.372274,-0.12223 -1.499765,-0.73346 M 152.50681,4.8380811 l 1.37127,1.2868673 0.4664,1.0769194 V 127.42007 l -0.39307,1.00309 -0.6485,0.70069 -0.25435,0.21879 -2.19374,1.49019 -0.0743,0.0473 -4.36365,2.59871 -0.016,0.01 -14.41185,8.34025 -0.002,9.8e-4 -32.096599,18.51225 -0.01953,0.011 -8.575452,4.77443 -0.03531,0.019 -2.321243,1.21113 -0.114724,0.0538 -0.972831,0.4059 -1.032078,0.0403 -0.992726,-0.32596 -0.18852,-0.0766 -1.59138,-0.77827 M 150.64635,17.365981 h 4.43776 m -4.43776,100.362909 h 4.43776 m -15.48922,15.42878 2.22463,3.83568 m -43.951353,20.24552 2.160533,3.87206"
+     inkstitch:satin_column="true"
+     inkscape:label="borde der" />
+</svg>
