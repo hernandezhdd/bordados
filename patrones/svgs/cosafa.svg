@@ -1263,7 +1263,7 @@
         <g
            id="command_group4"
            inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
-           transform="matrix(0.757616 -0 -0 0.757616 51.4669 49.4601)">
+           transform="matrix(0.757616 0 0 0.757616 51.4669 49.4601)">
           <path
              id="command_connector4"
              d="m 168.15312,-16.219801 3.63961,36.120916"
