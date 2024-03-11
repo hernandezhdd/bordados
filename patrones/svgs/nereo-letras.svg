@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="150mm"
+   height="70mm"
+   viewBox="0 0 150 70"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.76702441"
-     inkscape:cx="396.98867"
-     inkscape:cy="248.36237"
+     inkscape:zoom="1.0847363"
+     inkscape:cx="238.30676"
+     inkscape:cy="202.35332"
      inkscape:window-width="1858"
      inkscape:window-height="1057"
      inkscape:window-x="54"
@@ -47,7 +47,7 @@
      id="layer1">
     <g
        inkscape:label="Ink/Stitch Lettering"
-       transform="matrix(0.264583,0,0,0.264583,6.2090592,135.90941)"
+       transform="matrix(0.191356 0 0 0.40136 3.10453 73.6821)"
        id="g4671"
        inkstitch:lettering="{&quot;text&quot;: &quot;NEREO&quot;, &quot;back_and_forth&quot;: false, &quot;font&quot;: &quot;emilio_20_simple&quot;, &quot;scale&quot;: 100, &quot;trim_option&quot;: 3, &quot;use_trim_symbols&quot;: false}">
       <g
@@ -214,7 +214,7 @@
         <g
            id="g1"
            inkscape:label="E"
-           transform="translate(178)">
+           transform="translate(178, 0)">
           <path
              inkscape:label="Auto-remplissage satin 1"
              id="autosatin2"
@@ -465,7 +465,7 @@
         <g
            id="g2"
            inkscape:label="R"
-           transform="translate(331)">
+           transform="translate(331, 0)">
           <path
              inkscape:label="Auto-remplissage satin 1"
              inkstitch:contour_underlay="False"
@@ -612,7 +612,7 @@
         <g
            id="g19"
            inkscape:label="E"
-           transform="translate(500)">
+           transform="translate(500, 0)">
           <path
              inkscape:label="Auto-remplissage satin 1"
              id="path2"
@@ -863,7 +863,7 @@
         <g
            id="g20"
            inkscape:label="O"
-           transform="translate(652)">
+           transform="translate(652, 0)">
           <path
              id="autosatin4-0_7787"
              style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
