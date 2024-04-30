@@ -4,10 +4,10 @@
 <svg
    version="1.1"
    id="svg1"
-   width="74.999809mm"
-   height="75mm"
-   viewBox="0 0 283.46385 283.46457"
-   sodipodi:docname="braime-construccion.svg"
+   width="179.46297mm"
+   height="117.12174mm"
+   viewBox="0 0 678.28524 442.66485"
+   sodipodi:docname="braime-grande.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,15 +23,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.2938544"
-     inkscape:cx="157.15906"
-     inkscape:cy="136.66953"
+     inkscape:zoom="0.5734636"
+     inkscape:cx="304.29133"
+     inkscape:cy="170.01951"
      inkscape:window-width="1857"
      inkscape:window-height="1057"
      inkscape:window-x="55"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1"
+     inkscape:current-layer="svg1"
      inkscape:document-units="mm" />
   <metadata
      id="metadata3">
@@ -44,10 +44,11 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g1">
+     id="g1"
+     transform="translate(-20.155269,-155.79992)">
     <g
        id="g2"
-       transform="translate(-107.275, -112.207)">
+       transform="matrix(2.73978,0,0,2.73978,-328.977,-359.299)">
       <path
          style="fill:#f9f9f9"
          d="m 127.44936,319.08194 c 0.37749,-0.61078 2.47394,-2.02248 4.65878,-3.1371 2.18938,-1.11694 4.40322,-3.15961 4.93215,-4.55081 C 137.56813,310.0057 138,303.2741 138,296.4349 V 284 h 15 15 v 16.1337 16.13369 l 9.75,-0.4726 c 18.66746,-0.90486 27.36101,-8.46899 28.9199,-25.16277 L 207.28921,284 h 15.49132 15.49132 l -0.63136,4.60629 c -1.35829,9.90977 -8.66726,18.88718 -19.60322,24.07808 -12.82471,6.08743 -16.36997,6.53813 -55.40575,7.04361 -26.14257,0.33852 -35.68239,0.16334 -35.18216,-0.64605 z M 256,318.9919 c 0,-0.55445 1.81313,-1.73356 4.02917,-2.62025 2.21605,-0.88669 4.46605,-2.42846 5,-3.42616 C 265.56313,311.94779 266,305.0269 266,297.56574 V 284 h 15 15 v 13.38922 c 0,14.99775 0.7403,17.00316 7.06254,19.13184 1.8242,0.6142 3.49389,1.64823 3.71042,2.29783 C 307.06884,319.70652 300.80968,320 281.58333,320 265.05745,320 256,319.6431 256,318.9919 Z m 79.58936,-6.2419 c -1.84808,-3.9875 -5.43672,-11.66926 -7.97475,-17.07057 C 325.07657,290.27812 323,285.44062 323,284.92943 c 0,-0.52985 5.91131,-0.90865 13.75,-0.88108 l 13.75,0.0483 5,10.6276 c 7.22853,15.36438 9.70537,18.91564 14.98008,21.4783 C 372.96604,317.41036 375,318.75886 375,319.19927 375,319.63967 366.88864,320 356.97475,320 H 338.94951 Z M 138,220.13486 c 0,-21.3971 -0.12919,-23.02938 -2.01219,-25.42322 -1.1067,-1.40695 -3.31911,-2.84513 -4.91646,-3.19597 -1.59735,-0.35084 -3.15274,-1.28539 -3.45643,-2.07678 -0.47348,-1.23388 4.10953,-1.43781 32.16646,-1.43134 32.5211,0.008 41.35987,0.64005 50.4891,3.61318 6.70904,2.18494 13.69781,8.06146 17.19304,14.45681 2.53078,4.63064 2.96638,6.51765 2.98306,12.92246 0.0234,8.98866 -1.97762,13.46947 -8.83995,19.79495 L 217.04469,243 H 206.6478 196.25092 l 2.11527,-4.25 c 1.67575,-3.36693 2.1908,-6.56373 2.47882,-15.38535 C 201.61657,199.73285 195.25867,192 175.05718,192 H 168 v 25.5 25.5 h -15 -15 z m 128,-0.4463 c 0,-21.75402 -0.13067,-23.4517 -1.95591,-25.41086 -1.07575,-1.15468 -3.32575,-2.40029 -5,-2.76802 C 257.36984,191.14196 256,190.20184 256,189.42054 c 0,-1.19918 5.10332,-1.4151 32.75,-1.38565 35.87246,0.0382 43.74509,0.83127 54.01827,5.44161 18.90378,8.4835 24.66112,31.0589 11.801,46.2735 l -2.74706,3.25 h -11.81503 -11.81503 l 2.0479,-5.25 c 1.53127,-3.92555 2.06101,-7.64662 2.09988,-14.75 0.12334,-22.54319 -7.65732,-31 -28.52143,-31 H 296 v 25.5 25.5 h -15 -15 z"
@@ -55,7 +56,7 @@
          sodipodi:nodetypes="sssscccccsscccssssssssscccssssssssscsssscssssscsssscccssscccccsssssssscccssscccccs" />
       <g
          inkscape:label="Ink/Stitch Lettering"
-         transform="matrix(0.914966 0 0 0.914966 199.765 271.672)"
+         transform="matrix(0.914966,0,0,0.914966,199.765,271.672)"
          id="g229"
          inkstitch:lettering="{&quot;text&quot;: &quot;BRAIME&quot;, &quot;back_and_forth&quot;: false, &quot;font&quot;: &quot;small_font&quot;, &quot;scale&quot;: 100, &quot;trim_option&quot;: 2, &quot;use_trim_symbols&quot;: false}"
          style="stroke:#ffffff">
@@ -151,13 +152,13 @@
           <g
              id="g3"
              inkscape:label="R"
-             transform="translate(20.6063, 0)"
+             transform="translate(20.6063)"
              style="stroke:#ffffff">
             <path
                d="m 21.9193,-3.18433 v 0.13096 1.51082 1.51095"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-20.6063, 0)"
+               transform="translate(-20.6063)"
                id="autosatinrun4"
                inkscape:label="AutoSatin Running Stitch 8" />
             <path
@@ -175,7 +176,7 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-20.6063, 0)"
+               transform="translate(-20.6063)"
                inkscape:label="AutoSatin 9" />
             <path
                d="m 23.2323,-17.0932 h 3.302 c 1.2653,0 2.2187,0.2903 2.86,0.871 0.65,0.572 1.2493,1.4257 1.2493,2.561 0,1.1353 -0.5993,1.9977 -1.2493,2.587 -0.3904,0.3535 -0.8965,0.5994 -1.5182,0.7377 m -4.7,-8.9147 h 3.3582 c 2.2187,0 3.874,0.4637 4.966,1.391 1.092,0.9273 1.638,2.327 1.638,4.199 0,1.222 -0.286,2.236 -0.858,3.042 -0.5633,0.806 -1.3867,1.365 -2.47,1.677"
@@ -191,13 +192,13 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-20.6063, 0)"
+               transform="translate(-20.6063)"
                inkscape:label="AutoSatin 10" />
             <path
                d="m 29.298,-8.04905 -0.6969,-0.48437 -1.1922,-0.60696 -0.995,0.01113 v 0 l -0.4512,0.00505 h -1.3652 -1.3652"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-20.6063, 0)"
+               transform="translate(-20.6063)"
                id="autosatinrun5"
                inkscape:label="AutoSatin Running Stitch 11" />
             <path
@@ -215,19 +216,19 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-20.6063, 0)"
+               transform="translate(-20.6063)"
                inkscape:label="AutoSatin 12" />
           </g>
           <g
              id="g4"
              inkscape:label="A"
-             transform="translate(41.5922, 0)"
+             transform="translate(41.5922)"
              style="stroke:#ffffff">
             <path
                d="m 46.5257,-5.8276 h 1.3953 1.2524 v 0 h 0.1169 1.3693 1.1614 v 0 h 0.2078 1.3693 1.0706"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-41.5922, 0)"
+               transform="translate(-41.5922)"
                id="autosatinrun6"
                inkscape:label="AutoSatin Running Stitch 13" />
             <path
@@ -244,13 +245,13 @@
                inkstitch:center_walk_underlay_stitch_length_mm="1.2"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-41.5922, 0)"
+               transform="translate(-41.5922)"
                inkscape:label="AutoSatin 14" />
             <path
                d="m 45.3681,-6.26742 -0.0928,0.24457 -0.5701,1.51007 -0.5302,1.39124 v 0 l -0.046,0.12046 -0.5761,1.51173 -0.5762,1.51175"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-41.5922, 0)"
+               transform="translate(-41.5922)"
                id="autosatinrun7"
                inkscape:label="AutoSatin Running Stitch 15" />
             <path
@@ -268,7 +269,7 @@
                inkstitch:zigzag_underlay="False"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-41.5922, 0)"
+               transform="translate(-41.5922)"
                inkscape:label="AutoSatin 16" />
             <path
                sodipodi:nodetypes="ccccccc"
@@ -285,13 +286,13 @@
                inkstitch:zigzag_underlay="False"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-41.5922, 0)"
+               transform="translate(-41.5922)"
                inkscape:label="AutoSatin 17" />
           </g>
           <g
              id="g5"
              inkscape:label="I"
-             transform="translate(65.1955, 0)"
+             transform="translate(65.1955)"
              style="stroke:#ffffff">
             <path
                id="autosatin11"
@@ -308,13 +309,13 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-65.1955, 0)"
+               transform="translate(-65.1955)"
                inkscape:label="AutoSatin 18" />
             <path
                d="m 66.5085,-6.30083 v -0.57698 -1.51181 -1.07908 0 -0.43273 -1.51177 -1.2234 0 -0.2885 -1.5118 -1.3675 0 -0.1443 -1.5118 -1.5118"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-65.1955, 0)"
+               transform="translate(-65.1955)"
                id="autosatinrun8"
                inkscape:label="AutoSatin Running Stitch 19" />
             <path
@@ -332,19 +333,19 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-65.1955, 0)"
+               transform="translate(-65.1955)"
                inkscape:label="AutoSatin 20" />
           </g>
           <g
              id="g6"
              inkscape:label="M"
-             transform="translate(73.3702, 0)"
+             transform="translate(73.3702)"
              style="stroke:#ffffff">
             <path
                d="m 75.0151,-6.2982 v 0.26936 1.51181 1.37713 0 0.13468 1.51181 1.51181"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-73.3702, 0)"
+               transform="translate(-73.3702)"
                id="autosatinrun9"
                inkscape:label="AutoSatin Running Stitch 21" />
             <path
@@ -362,7 +363,7 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-73.3702, 0)"
+               transform="translate(-73.3702)"
                inkscape:label="AutoSatin 22" />
             <path
                d="m 75.6006,-18.8351 v 1.794 l 0.6885,0.4584 5.005,13.312 m -3.3491,-15.678 4.953,13.208 v 2.3245 m -5.0185,-7.5155 h 3.5638"
@@ -378,7 +379,7 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-73.3702, 0)"
+               transform="translate(-73.3702)"
                inkscape:label="AutoSatin 23" />
             <path
                d="m 83.9331,-3.2707 5.005,-13.312 0.6026,-0.3857 v -1.8668 m -7.2245,15.419 v -2.3245 l 4.979,-13.208 m -3.5002,8.017 h 3.4183"
@@ -394,7 +395,7 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-73.3702, 0)"
+               transform="translate(-73.3702)"
                inkscape:label="AutoSatin 24" />
             <path
                d="m 88.28,-18.7867 v 1.7941 l 0.658,0.4099 v 0.4543 m 2.5611,-2.8203 v 2.966 m -3.3801,-2.4959 3.5411,-0.1782"
@@ -411,13 +412,13 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-73.3702, 0)"
+               transform="translate(-73.3702)"
                inkscape:label="AutoSatin 25" />
             <path
                d="m 90.2186,-15.7538 v 1.1956 1.4975 0.4613 0 1.0361 1.4974 0.62098 0 0.87639 1.51099 0.76706 0 0.74475 1.51181 0.89788 0 0.61393 1.51181 1.0287"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-73.3702, 0)"
+               transform="translate(-73.3702)"
                id="autosatinrun10"
                inkscape:label="AutoSatin Running Stitch 26" />
             <path
@@ -435,13 +436,13 @@
                inkstitch:zigzag_spacing_mm="0.4"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-73.3702, 0)"
+               transform="translate(-73.3702)"
                inkscape:label="AutoSatin 27" />
           </g>
           <g
              inkscape:label="E"
              id="g7"
-             transform="translate(97.6544, 0)"
+             transform="translate(97.6544)"
              style="stroke:#ffffff">
             <path
                id="autosatin18"
@@ -457,13 +458,13 @@
                inkstitch:center_walk_underlay_stitch_length_mm="1.2"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-97.6544, 0)"
+               transform="translate(-97.6544)"
                inkscape:label="AutoSatin 28" />
             <path
                d="m 103.489,-17.8652 h 0.397 1.51 1.312 v 0 h 0.198 1.51 1.51"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-97.6544, 0)"
+               transform="translate(-97.6544)"
                id="autosatinrun11"
                inkscape:label="AutoSatin Running Stitch 29" />
             <path
@@ -480,13 +481,13 @@
                inkstitch:center_walk_underlay_stitch_length_mm="1.2"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-97.6544, 0)"
+               transform="translate(-97.6544)"
                inkscape:label="AutoSatin 30" />
             <path
                d="m 103.476,-10.1149 h 1.512 1.512 v 0 0 h 1.512 1.511"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-97.6544, 0)"
+               transform="translate(-97.6544)"
                id="autosatinrun12"
                inkscape:label="AutoSatin Running Stitch 31" />
             <path
@@ -503,13 +504,13 @@
                inkstitch:center_walk_underlay_stitch_length_mm="1.2"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-97.6544, 0)"
+               transform="translate(-97.6544)"
                inkscape:label="AutoSatin 32" />
             <path
                d="m 98.9674,-11.15 v -1.043 -1.506 -0.9849 0 -0.5212 -1.506 -1.5068"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
                inkstitch:running_stitch_length_mm="1.2"
-               transform="translate(-97.6544, 0)"
+               transform="translate(-97.6544)"
                id="autosatinrun13"
                inkscape:label="AutoSatin Running Stitch 33" />
             <path
@@ -526,7 +527,7 @@
                inkstitch:center_walk_underlay_stitch_length_mm="1.2"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-97.6544, 0)"
+               transform="translate(-97.6544)"
                inkscape:label="AutoSatin 34" />
             <path
                id="autosatin22"
@@ -542,7 +543,7 @@
                inkstitch:center_walk_underlay_stitch_length_mm="1.2"
                inkstitch:fill_underlay="False"
                inkstitch:reverse_rails="none"
-               transform="translate(-97.6544, 0)"
+               transform="translate(-97.6544)"
                inkscape:label="AutoSatin 35" />
           </g>
         </g>
@@ -552,7 +553,7 @@
        inkscape:label="Ink/Stitch Lettering"
        id="g2436"
        inkstitch:lettering="{&quot;text&quot;: &quot;CONSTRUCCION&quot;, &quot;back_and_forth&quot;: false, &quot;font&quot;: &quot;small_font&quot;, &quot;scale&quot;: 100, &quot;trim_option&quot;: 0, &quot;use_trim_symbols&quot;: false}"
-       transform="matrix(0.713577 0 0 0.713577 57.8099 236.484)"
+       transform="matrix(1.95504,0,0,1.95504,123.32,596.038)"
        style="stroke:#ffffff">
       <g
          inkscape:label="CONSTRUCCION"
@@ -588,13 +589,13 @@
         <g
            id="g18"
            inkscape:label="O"
-           transform="translate(21.4802, 0)"
+           transform="translate(21.4802)"
            style="stroke:#ffffff">
           <path
              d="m 23.4699,-5.59512 -0.2897,-1.03234 -0.2181,-1.32226 -0.0882,-1.34092 2e-4,-0.0035 v 0 l 0.0695,-1.33876 0.1757,-1.3295 0.2516,-1.0483 v 0 l 0.0618,-0.2574 0.5197,-1.2401 0.724,-1.1289 0.5456,-0.5975 v 0 l 0.3331,-0.3648 1.0219,-0.7778 1.1521,-0.5706 0.6692,-0.1904 v 0 l 0.5719,-0.1628 1.2878,-0.1189 1.2877,0.0789 0.5692,0.12 v 0 l 0.6889,0.1452 1.1906,0.4823 1.0775,0.7033 0.3498,0.3349 v 0 l 0.5837,0.559 0.7567,1.1112 0.5636,1.2161 0.0772,0.2553 v 0 l 0.3104,1.0267 0.241,1.3202 0.0881,1.34217"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-21.4802, 0)"
+             transform="translate(-21.4802)"
              id="autosatinrun15"
              inkscape:label="AutoSatin Running Stitch 3" />
           <path
@@ -611,19 +612,19 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-21.4802, 0)"
+             transform="translate(-21.4802)"
              inkscape:label="AutoSatin 4" />
         </g>
         <g
            inkscape:label="N"
            id="g19"
-           transform="translate(44.8523, 0)"
+           transform="translate(44.8523)"
            style="stroke:#ffffff">
           <path
              d="m 46.6828,-9.47063 v 0.39386 1.51181 1.24924 0 0.26258 1.51181 1.38052 0 0.13129 1.51181 1.51181"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-44.8523, 0)"
+             transform="translate(-44.8523)"
              id="autosatinrun16"
              inkscape:label="AutoSatin Running Stitch 5" />
           <path
@@ -641,7 +642,7 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-44.8523, 0)"
+             transform="translate(-44.8523)"
              inkscape:label="AutoSatin 6" />
           <path
              sodipodi:nodetypes="cccccccccc"
@@ -658,7 +659,7 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-44.8523, 0)"
+             transform="translate(-44.8523)"
              inkscape:label="AutoSatin 7" />
           <path
              sodipodi:nodetypes="cccccccc"
@@ -675,13 +676,13 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-44.8523, 0)"
+             transform="translate(-44.8523)"
              inkscape:label="AutoSatin 8" />
           <path
              d="m 58.7097,-3.19729 0.1151,-1.21066 v -1.49853 -0.43526 0 -1.06328 -1.49853 -0.58811 0 -0.91044 -1.5112 -0.7283 0 -0.7835 -1.5118 -0.8546 0 -0.6572 -1.5118 l -1e-4,-0.9809"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-44.8523, 0)"
+             transform="translate(-44.8523)"
              id="autosatinrun17"
              inkscape:label="AutoSatin Running Stitch 9" />
           <path
@@ -699,13 +700,13 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-44.8523, 0)"
+             transform="translate(-44.8523)"
              inkscape:label="AutoSatin 10" />
         </g>
         <g
            inkscape:label="S"
            id="g20"
-           transform="translate(66.4807, 0)"
+           transform="translate(66.4807)"
            style="stroke:#ffffff">
           <path
              inkscape:connector-curvature="0"
@@ -721,13 +722,13 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-66.4807, 0)"
+             transform="translate(-66.4807)"
              inkscape:label="AutoSatin 11" />
         </g>
         <g
            inkscape:label="T"
            id="g21"
-           transform="translate(85.9242, 0)"
+           transform="translate(85.9242)"
            style="stroke:#ffffff">
           <path
              d="m 85.9242,-19.2898 h 6.7595 m -6.7595,2.6948 h 6.8062"
@@ -744,13 +745,13 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-85.9242, 0)"
+             transform="translate(-85.9242)"
              inkscape:label="AutoSatin 12" />
           <path
              d="m 94.1337,-16.595 v 1.5014 1.5118 0.3107 0 1.2011 1.5118 0.611 0 0.90083 1.51181 0.91126 0 0.60056 1.51181 1.21153 0 0.30028 1.51181 1.51181"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-85.9242, 0)"
+             transform="translate(-85.9242)"
              id="autosatinrun18"
              inkscape:label="AutoSatin Running Stitch 13" />
           <path
@@ -768,7 +769,7 @@
              inkstitch:center_walk_underlay_stitch_length_mm="1.2"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-85.9242, 0)"
+             transform="translate(-85.9242)"
              inkscape:label="AutoSatin 14" />
           <path
              d="m 92.6837,-19.2898 h 9.6593 m -9.6127,2.6948 h 9.6127"
@@ -785,19 +786,19 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-85.9242, 0)"
+             transform="translate(-85.9242)"
              inkscape:label="AutoSatin 15" />
         </g>
         <g
            id="g22"
            inkscape:label="R"
-           transform="translate(108.304, 0)"
+           transform="translate(108.304)"
            style="stroke:#ffffff">
           <path
              d="m 109.617,-18.948 v 0.7865 1.5108 0.8554 0 0.6554 1.5108 0.9866 0 0.5242 1.5108 1.1177 0 0.39316 1.51082 1.24875 0 0.26207 1.51081 1.37986 0 0.13096 1.51082 1.51095"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-108.304, 0)"
+             transform="translate(-108.304)"
              id="autosatinrun19"
              inkscape:label="AutoSatin Running Stitch 16" />
           <path
@@ -815,7 +816,7 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-108.304, 0)"
+             transform="translate(-108.304)"
              inkscape:label="AutoSatin 17" />
           <path
              d="m 110.93,-17.0932 h 3.302 c 1.265,0 2.219,0.2903 2.86,0.871 0.65,0.572 1.249,1.4257 1.249,2.561 0,1.1353 -0.599,1.9977 -1.249,2.587 -0.39,0.3535 -0.896,0.5994 -1.518,0.7377 m -4.7,-8.9147 h 3.358 c 2.219,0 3.874,0.4637 4.966,1.391 1.092,0.9273 1.638,2.327 1.638,4.199 0,1.222 -0.286,2.236 -0.858,3.042 -0.563,0.806 -1.387,1.365 -2.47,1.677"
@@ -831,13 +832,13 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-108.304, 0)"
+             transform="translate(-108.304)"
              inkscape:label="AutoSatin 18" />
           <path
              d="m 116.996,-8.04905 -0.697,-0.48437 -1.192,-0.60696 -0.995,0.01113 v 0 l -0.452,0.00505 h -1.365 -1.365"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-108.304, 0)"
+             transform="translate(-108.304)"
              id="autosatinrun20"
              inkscape:label="AutoSatin Running Stitch 19" />
           <path
@@ -855,19 +856,19 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-108.304, 0)"
+             transform="translate(-108.304)"
              inkscape:label="AutoSatin 20" />
         </g>
         <g
            id="g23"
            inkscape:label="U"
-           transform="translate(129.419, 0)"
+           transform="translate(129.419)"
            style="stroke:#ffffff">
           <path
              d="m 131.151,-4.30412 -0.056,-0.14575 -0.261,-1.30697 -0.08,-1.33093 -0.009,-0.859 v 0 l -0.006,-0.60739 v -1.49094 -1.491 -0.0921 0 -1.3989 -1.491 -0.7915 0 -0.6995 -1.491 -1.491"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-129.419, 0)"
+             transform="translate(-129.419)"
              id="autosatinrun21"
              inkscape:label="AutoSatin Running Stitch 21" />
           <path
@@ -885,13 +886,13 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-129.419, 0)"
+             transform="translate(-129.419)"
              inkscape:label="AutoSatin 22" />
           <path
              d="m 142.959,-11.6282 v -0.3059 -1.491 -1.4909 -0.3936 0 -1.0974 -1.491 -1.0931"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-129.419, 0)"
+             transform="translate(-129.419)"
              id="autosatinrun22"
              inkscape:label="AutoSatin Running Stitch 23" />
           <path
@@ -909,19 +910,19 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-129.419, 0)"
+             transform="translate(-129.419)"
              inkscape:label="AutoSatin 24" />
         </g>
         <g
            inkscape:label="C"
            id="g24"
-           transform="translate(150.197, 0)"
+           transform="translate(150.197)"
            style="stroke:#ffffff">
           <path
              d="m 151.705,-11.282 -0.084,1.2595 0.011,1.34621 0.085,1.08355 v 0 l 0.021,0.26029 0.299,1.31534 0.473,1.25777 0.365,0.64589 v 0 l 0.294,0.52218 0.85,1.03126 1.006,0.84058 0.397,0.20944 v 0 l 0.765,0.40389 1.256,0.3766 1.294,0.197852 0.21,0.008251 v 0 l 1.153,0.045362 1.493,-0.154672 1.003,-0.275821 v 0 l 0.495,-0.136042 1.514,-0.7252 1.244,-0.84443"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-150.197, 0)"
+             transform="translate(-150.197)"
              id="autosatinrun23"
              inkscape:label="AutoSatin Running Stitch 25" />
           <path
@@ -939,19 +940,19 @@
              inkstitch:center_walk_underlay_stitch_length_mm="1.2"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-150.197, 0)"
+             transform="translate(-150.197)"
              inkscape:label="AutoSatin 26" />
         </g>
         <g
            inkscape:label="C"
            id="g25"
-           transform="translate(171.768, 0)"
+           transform="translate(171.768)"
            style="stroke:#ffffff">
           <path
              d="m 174.442,-14.7645 -0.43,0.8109 -0.442,1.2679 -0.288,1.317 -0.006,0.0867 v 0 l -0.084,1.2595 0.011,1.34621 0.085,1.08355 v 0 l 0.021,0.26029 0.299,1.31534 0.473,1.25777 0.365,0.64589 v 0 l 0.294,0.52218 0.85,1.03126 1.006,0.84058 0.397,0.20944 v 0 l 0.765,0.40389 1.256,0.3766 1.294,0.197852 0.21,0.008251 v 0 l 1.153,0.045362 1.493,-0.154672 1.003,-0.275821 v 0 l 0.495,-0.136042 1.514,-0.7252 1.244,-0.84443"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-171.768, 0)"
+             transform="translate(-171.768)"
              id="autosatinrun24"
              inkscape:label="AutoSatin Running Stitch 27" />
           <path
@@ -969,19 +970,19 @@
              inkstitch:center_walk_underlay_stitch_length_mm="1.2"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-171.768, 0)"
+             transform="translate(-171.768)"
              inkscape:label="AutoSatin 28" />
         </g>
         <g
            id="g26"
            inkscape:label="I"
-           transform="translate(193.33, 0)"
+           transform="translate(193.33)"
            style="stroke:#ffffff">
           <path
              d="m 194.643,-15.8044 v -0.1443 -1.5118 -1.5118"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-193.33, 0)"
+             transform="translate(-193.33)"
              id="autosatinrun25"
              inkscape:label="AutoSatin Running Stitch 29" />
           <path
@@ -999,13 +1000,13 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-193.33, 0)"
+             transform="translate(-193.33)"
              inkscape:label="AutoSatin 30" />
           <path
              d="m 194.643,-9.4687 v 1.07908 1.51181 0.57698 0 0.93483 1.51181 0.72122 0 0.79059 1.511812 0.865468"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-193.33, 0)"
+             transform="translate(-193.33)"
              id="autosatinrun26"
              inkscape:label="AutoSatin Running Stitch 31" />
           <path
@@ -1023,19 +1024,19 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-193.33, 0)"
+             transform="translate(-193.33)"
              inkscape:label="AutoSatin 32" />
         </g>
         <g
            id="g27"
            inkscape:label="O"
-           transform="translate(201.784, 0)"
+           transform="translate(201.784)"
            style="stroke:#ffffff">
           <path
              d="m 203.178,-9.29414 0.069,-1.33876 0.176,-1.3295 0.252,-1.0483 v 0 l 0.061,-0.2574 0.52,-1.2401 0.724,-1.1289 0.546,-0.5975 v 0 l 0.333,-0.3648 1.022,-0.7778 1.152,-0.5706 0.669,-0.1904 v 0 l 0.572,-0.1628 1.288,-0.1189 1.288,0.0789 0.569,0.12 v 0 l 0.689,0.1452 1.19,0.4823 1.078,0.7033 0.349,0.3349 v 0 l 0.584,0.559 0.757,1.1112 0.563,1.2161 0.078,0.2553 v 0 l 0.31,1.0267 0.241,1.3202 0.088,1.34217"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-201.784, 0)"
+             transform="translate(-201.784)"
              id="autosatinrun27"
              inkscape:label="AutoSatin Running Stitch 33" />
           <path
@@ -1052,19 +1053,19 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-201.784, 0)"
+             transform="translate(-201.784)"
              inkscape:label="AutoSatin 34" />
         </g>
         <g
            inkscape:label="N"
            id="g28"
-           transform="translate(225.156, 0)"
+           transform="translate(225.156)"
            style="stroke:#ffffff">
           <path
              d="m 226.987,-9.47063 v 0.39386 1.51181 1.24924 0 0.26258 1.51181 1.38052 0 0.13129 1.51181 1.51181"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-225.156, 0)"
+             transform="translate(-225.156)"
              id="autosatinrun28"
              inkscape:label="AutoSatin Running Stitch 35" />
           <path
@@ -1082,7 +1083,7 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-225.156, 0)"
+             transform="translate(-225.156)"
              inkscape:label="AutoSatin 36" />
           <path
              sodipodi:nodetypes="cccccccccc"
@@ -1099,7 +1100,7 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-225.156, 0)"
+             transform="translate(-225.156)"
              inkscape:label="AutoSatin 37" />
           <path
              sodipodi:nodetypes="cccccccc"
@@ -1116,13 +1117,13 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-225.156, 0)"
+             transform="translate(-225.156)"
              inkscape:label="AutoSatin 38" />
           <path
              d="m 239.128,-6.34174 v -1.06328 -1.49853 -0.58811 0 -0.91044 -1.5112 -0.7283 0 -0.7835 -1.5118 -0.8546 0 -0.6572 -1.5118 -0.9809"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
              inkstitch:running_stitch_length_mm="1.2"
-             transform="translate(-225.156, 0)"
+             transform="translate(-225.156)"
              id="autosatinrun29"
              inkscape:label="AutoSatin Running Stitch 39" />
           <path
@@ -1140,7 +1141,7 @@
              inkstitch:zigzag_spacing_mm="0.4"
              inkstitch:fill_underlay="False"
              inkstitch:reverse_rails="none"
-             transform="translate(-225.156, 0)"
+             transform="translate(-225.156)"
              inkscape:label="AutoSatin 40" />
         </g>
       </g>
