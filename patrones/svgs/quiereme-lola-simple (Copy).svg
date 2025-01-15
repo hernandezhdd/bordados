@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="68.333336mm"
+   height="40mm"
+   viewBox="0 0 193.70079 113.38583"
+   preserveAspectRatio="xMidYMid"
+   id="svg36"
+   sodipodi:docname="quiereme-lola-simple.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkstitch="http://inkstitch.org/namespace">
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="65.584154"
+     inkscape:cy="150.9673"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="centerline_group_14" />
+  <metadata
+     id="metadata36">
+    <inkstitch:min_stitch_len_mm>0</inkstitch:min_stitch_len_mm>
+    <inkstitch:collapse_len_mm>3</inkstitch:collapse_len_mm>
+    <inkstitch:inkstitch_svg_version>2</inkstitch:inkstitch_svg_version>
+  </metadata>
+  <defs
+     id="defs36">
+    <symbol
+       id="inkstitch_trim">
+      <title
+         id="inkstitch_title9282">Trim the thread after sewing this object.</title>
+      <path
+         id="inkstitch_circle13405"
+         d="m 9.2465284,-8.6e-6 c 1.8e-6,2.452339 -0.9741847,4.804237 -2.7082493,6.538304 C 4.8042146,8.2723614 2.4523174,9.2465504 -2.1625959e-5,9.2465514 -2.4523623,9.2465534 -4.8042621,8.2723654 -6.5383288,6.5382984 -8.2723956,4.8042314 -9.2465834,2.4523324 -9.2465816,-8.6e-6 c 6e-7,-2.452339 0.9741895,-4.804237 2.708256,-6.538301 1.7340665,-1.734065 4.0859648,-2.708252 6.538303974041,-2.70825 C 5.1067066,-9.2465576 9.2465271,-5.1067366 9.2465284,-8.6e-6 c 0,0 0,0 0,0"
+         style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:1.06500006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.19500017, 3.19500017;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#050505;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m -3.0000256,-5.9834096 c -1.30575,0 -2.375,1.06924 -2.375,2.375 0,1.30575 1.06925,2.375 2.375,2.375 0.58687,0 1.11944,-0.22369 1.53516,-0.58007 0,0 0.61717997,1.62109 0.61717997,1.62109 0,0 -2.29881997,6.01758 -2.29881997,6.01758 0.98655,-0.12511 1.23728,-0.26171 1.67382,-0.97461 0,0 1.33007997,-3.18945 1.33007997,-3.18945 0,0 1.23633003,3.25 1.23633003,3.25 0.23227,0.77906 0.84315,0.79218 1.57813,1.07226 0,0 -2.05469003,-6.14258 -2.05469003,-6.14258 0,0 0.73047003,-1.75 0.73047003,-1.75 0.42849,0.41682 1.01136,0.67578 1.65234,0.67578 1.30575,0 2.375,-1.06925 2.375,-2.375 0,-1.30576 -1.06925,-2.375 -2.375,-2.375 -1.06233,0 -1.95701,0.71265 -2.25781003,1.67969 0,0 -0.0117,-0.0156 -0.0117,-0.0156 0,0 -0.80274,2.10156 -0.80274,2.10156 0,0 -0.59179,-1.76562 -0.59179,-1.76562 -0.18242,-1.12808 -1.15864997,-2 -2.33593997,-2 0,0 -2e-5,-3e-5 -2e-5,-3e-5 m 0,1 c 0.76531,0 1.375,0.60968 1.375,1.375 0,0.76531 -0.60969,1.375 -1.375,1.375 -0.76531,0 -1.375,-0.60969 -1.375,-1.375 0,-0.76532 0.60969,-1.375 1.375,-1.375 0,0 0,0 0,0 m 6,0 c 0.76531,0 1.375,0.60968 1.375,1.375 0,0.76531 -0.60969,1.375 -1.375,1.375 -0.76531,0 -1.375,-0.60969 -1.375,-1.375 0,-0.76532 0.60969,-1.375 1.375,-1.375 0,0 0,0 0,0"
+         id="inkstitch_path13416"
+         inkscape:connector-curvature="0" />
+    </symbol>
+  </defs>
+  <g
+     transform="matrix(0.0254491 0 0 -0.0254491 -8.80659 116.024)"
+     fill="#000000"
+     stroke="none"
+     id="g36">
+    <path
+       d="m 6331.2352,3703.9412 c -22,-7 -49,-23 -62,-35 -55,-51 -105,-194 -105,-299 0,-103 38,-230 83,-280 34,-37 108,-81 138,-81 40,0 100,28 137,63 73,69 140,252 128,352 -14,125 -53,194 -143,256 -35,24 -50,29 -76,24 -24,-5 -28,-4 -17,4 23,16 -36,13 -83,-4 z"
+       id="path15"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group1"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector1"
+         d="M 197.24031,-0.38972655 203.29518,28.945119"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use4687"
+         inkscape:connection-end="#path15"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use4687"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="197.23773402066527"
+         y="-0.425573609858487"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 6969.2352,3452.9412 c -79,-41 -133,-126 -155,-248 -13,-72 -9,-192 10,-258 13,-46 65,-116 108,-144 97,-66 251,-16 305,99 10,19 24,70 33,112 13,63 14,91 5,151 -20,132 -86,255 -155,288 -43,20 -112,20 -151,0 z"
+       id="path16"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group2"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector2"
+         d="m 226.64728,7.0872239 0.44846,29.9382981"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use5876"
+         inkscape:connection-end="#path16"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use5876"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="226.6446926423991"
+         y="7.051376609072908"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 5679.2352,3285.9412 c -16,-8 -43,-29 -60,-46 -29,-31 -30,-36 -29,-120 1,-77 5,-95 30,-141 37,-68 126,-143 224,-188 67,-32 84,-35 160,-36 72,0 91,3 129,24 69,39 86,69 85,148 -2,131 -93,256 -239,328 -65,32 -83,36 -171,40 -72,3 -107,1 -129,-9 z"
+       id="path17"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group3"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector3"
+         d="m 178.22031,13.267127 7.94188,29.668209"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use8997"
+         inkscape:connection-end="#path17"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use8997"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="178.2177318165447"
+         y="13.231280216581869"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 6514.2352,2768.9412 c -8,-5 -33,-10 -56,-10 -52,0 -62,-11 -118,-130 -94,-199 -124,-349 -112,-555 9,-144 60,-298 118,-352 48,-45 178,-84 178,-53 0,6 13,10 28,10 61,0 214,111 337,244 63,69 95,96 112,96 12,0 23,5 23,10 0,6 9,10 20,10 11,0 28,4 38,9 9,5 35,17 57,27 92,39 200,137 235,211 26,55 26,132 0,182 -65,128 -307,254 -537,281 -54,6 -114,16 -134,21 -47,12 -170,11 -189,-1 z m 227,-220 c 109,-10 222,-38 254,-63 57,-44 76,-137 37,-181 -31,-34 -102,-58 -135,-45 -14,5 -50,9 -79,8 -52,-2 -54,-3 -60,-35 -3,-19 -4,-41 0,-49 3,-8 2,-15 -3,-15 -4,0 -13,-18 -20,-40 -6,-22 -26,-56 -42,-75 -27,-31 -37,-35 -78,-35 -53,0 -73,14 -112,77 -31,49 -31,134 0,253 12,47 24,114 26,150 2,36 4,67 4,69 1,2 22,1 49,-3 26,-3 97,-10 159,-16 z m -360,-668 c 37,-38 88,-72 106,-72 8,0 20,-7 27,-15 8,-9 21,-13 36,-9 19,5 24,2 24,-14 0,-44 -144,-31 -190,17 -21,22 -40,68 -40,96 0,32 4,31 37,-3 z"
+       id="path24"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group4"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector4"
+         d="m 205.59383,30.946854 8.36273,29.525651"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use4334"
+         inkscape:connection-end="#path24"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use4334"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="205.59124211736705"
+         y="30.911006668405538"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 5679.2352,2648.9412 c -103,-15 -169,-67 -191,-151 -21,-81 -4,-131 68,-200 60,-59 180,-125 268,-150 93,-25 223,-7 289,42 54,40 66,149 26,234 -38,78 -200,205 -263,205 -11,0 -22,4 -24,9 -5,12 -116,20 -173,11 z"
+       id="path25"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group5"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector5"
+         d="m 184.74027,34.764672 0.81595,30.062532"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use6655"
+         inkscape:connection-end="#path25"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use6655"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="184.73768409437483"
+         y="34.72882409196558"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 3493.2352,1651.9412 c -27,-66 -33,-80 -48,-111 -9,-19 -30,-50 -47,-70 -31,-36 -32,-36 -55,-19 -91,66 -132,90 -159,93 -17,2 -39,8 -50,14 -10,5 -47,10 -82,10 -37,0 -69,5 -76,12 -9,9 -12,9 -12,-1 0,-9 -8,-11 -22,-8 -26,7 -58,-8 -58,-28 0,-12 23,-15 128,-14 70,0 141,-3 157,-6 72,-18 189,-105 168,-126 -29,-28 -116,-59 -165,-59 -69,0 -88,18 -88,83 0,43 -2,47 -24,47 -24,0 -36,-21 -36,-67 0,-35 22,-73 42,-73 10,0 33,-7 50,-16 27,-14 40,-15 87,-4 31,6 77,23 103,36 26,13 54,24 63,24 8,0 31,-22 52,-50 34,-46 63,-64 63,-40 0,5 -20,34 -45,65 l -46,56 46,59 c 25,32 45,67 45,77 1,15 6,12 27,-12 14,-16 40,-46 57,-65 52,-57 52,-57 2,-110 -42,-45 -59,-80 -38,-80 10,0 42,33 42,43 0,13 48,57 63,57 8,0 41,-14 73,-31 56,-29 64,-31 147,-27 68,3 87,1 87,-9 0,-8 -7,-16 -15,-19 -22,-9 -56,-73 -71,-134 -16,-65 -18,-160.00002 -4,-160.00002 6,0 10,-12 10,-27 1,-62 109,-157 214,-188 30,-9 91,-15 150,-15 93,0 105,2 151,29 89,51 161,152 180,252.00002 l 6,34 100,-3 c 109,-4 129,3 129,46 0,34 44,125 91,188 48,65 98,107 173,144 55,28 68,30 165,30 74,0 115,-5 135,-15 15,-8 34,-15 41,-15 23,0 83,-80 94,-127 12,-44 7,-103 -8,-103 -4,0 -12,20 -19,44 -12,45 -40,69 -109,93 -29,11 -32,10 -37,-13 -5,-20 -12,-24 -47,-24 -28,0 -51,8 -73,25 -18,14 -36,25 -39,25 -3,0 -7,-33 -9,-72 l -3,-73 -37,-3 c -25,-2 -50,-15 -81,-42 -50,-45 -64,-75 -39,-89 15,-8 14,-13 -6,-50 -31,-55.00002 -39,-180.00002 -13,-212.00002 23,-29 60,-19 54,15 -5,26 25,92 53,117 35,30 114,69.00002 141,69.00002 15,0 40,4 57,9 17,5 56,17 87,25 30,9 76,29 101,46 45,30 46,32 53,97 4,37 9,77 11,90 7,35 -18,84 -66,131 -34,33 -39,42 -24,42 32,0 261,-84 406,-149 76,-33 144,-61 152,-61 8,0 18,-4 21,-10 3,-5 39,-10 80,-10 70,0 75,2 99,31 34,40 34,81 1,103 -24,16 -26,16 -34,-7 -18,-46 -59,-84 -99,-91 -31,-5 -55,1 -122,30 -46,20 -88,37 -94,38 -6,1 -27,11 -46,21 -83,45 -304,125 -347,125 -11,0 -24,5 -30,11 -16,16 -291,18 -323,3 -14,-7 -46,-22 -71,-33 -103,-44 -219,-187 -256,-312 -8,-28 -23,-54 -34,-60 -28,-15 -165,-7 -161,10 5,26 -40,187 -65,231 -33,59 -168,192 -190,188 -34,-6 -22,-28 47,-83 108,-86 158,-163 178,-277 9,-49 8,-62 -9,-97 -10,-22 -23,-43 -29,-46 -6,-4 -8,-9 -6,-13 2,-4 -17,-7 -42,-7 -43,1 -46,2 -54,34 -8,28 -11,31 -25,20 -12,-10 -14,-25 -9,-63.00002 7,-58 18,-68 69,-60 52,8 48,-9 -13,-68 -79,-75 -100,-83 -215,-82 -146,0 -211,37 -203,116 2,28 7,34 31,36 36,4 34,15 -6,37 -31,16 -35,16 -65,1 -23,-12 -32,-24 -32,-41 0,-52 -40,-15 -65,60 -18,53.00002 -16,95.00002 9,180.00002 26,84 103,145 183,145 48,0 118,-32 133,-59 10,-20 9,-21 -32,-20 -24,1 -53,-3 -65,-9 -12,-7 -40,-12 -62,-12 -21,0 -46,-3 -55,-6 -20,-8 -21,-46 -1,-84 15,-28 50,-42 110,-44 13,-1 22,-10 25,-26 3,-14 26,-64.00002 53,-111.00002 26,-47 47,-91 47,-98 0,-6 5,-11 10,-11 6,0 10,5 10,10 0,6 23,47 52,93 30,48 52,94.00002 52,112.00002 1,29 2,30 56,32 68,3 90,25 90,89 v 44 h -59 c -33,0 -63,5 -67,11 -4,7 -28,10 -64,7 -56,-4 -58,-3 -74,27 -10,17 -31,40 -48,50 -40,23 -160,33 -192,15 -18,-9 -29,-9 -42,-1 -17,9 -17,10 -2,11 39,0 44,130 5,130 -9,0 -17,-16 -21,-47 -9,-69 -26,-83 -103,-83 -55,0 -71,4 -109,30 -24,17 -44,37 -44,43 0,16 120,96 162,107 17,5 91,11 165,12 119,3 133,5 133,21 0,14 -9,17 -47,18 -27,1 -66,3 -87,4 -114,5 -254,-45 -327,-117 -17,-17 -34,-27 -37,-22 -4,6 -21,30 -38,54 -45,64 -74,125 -74,154 0,36 -18,42 -31,9 z"
+       id="path26"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group6"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector6"
+         d="m 136.13617,72.705899 6.36981,39.004521"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use7563"
+         inkscape:connection-end="#path26"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use7563"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="136.1335930827179"
+         y="72.67004783140473"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 2282.2352,1548.9412 c -16,-22 -34,-32 -61,-37 -22,-3 -51,-17 -66,-29 l -26,-24 63,-60 c 62,-60 63,-60 122,-60 58,0 110,15 110,32 0,5 18,28 40,52 l 41,44 -30,21 c -16,12 -39,21 -51,21 -30,0 -60,18 -60,36 0,8 -12,19 -26,24 -33,13 -30,14 -56,-20 z"
+       id="path27"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group7"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector7"
+         d="m 57.745508,72.598263 8.190818,29.230197"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use2674"
+         inkscape:connection-end="#path27"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use2674"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="57.74292628238523"
+         y="72.56241520917818"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 2748.2352,1569.9412 c -11,-11 -2,-50 15,-65 27,-24 66,-5 57,27 -3,12 -6,27 -6,34 0,11 -55,14 -66,4 z m 47,-38 c 13,-16 12,-17 -3,-4 -17,13 -22,21 -14,21 2,0 10,-8 17,-17 z"
+       id="path28"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group8"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector8"
+         d="m 73.767091,72.484883 8.497682,28.743257"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use2472"
+         inkscape:connection-end="#path28"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use2472"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="73.7645132585695"
+         y="72.44903350430144"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 4194.2352,1563.9412 c -15,-19 -6,-61 16,-69 20,-8 54,20 54,44 0,36 -46,53 -70,25 z"
+       id="path29"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group9"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector9"
+         d="m 130.11777,71.250485 1.45176,29.906125"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use416"
+         inkscape:connection-end="#path29"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use416"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="130.1151865679583"
+         y="71.2146349685996"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 4644.2352,1538.9412 c -26,-32 -36,-38 -58,-34 -19,3 -35,-3 -55,-21 l -28,-25 60,-67 c 61,-66 61,-66 118,-68 l 57,-2 63,62 c 35,34 63,69 63,78 0,21 -50,47 -89,47 -20,0 -34,7 -41,19 -13,24 -39,51 -50,51 -5,0 -22,-18 -40,-40 z"
+       id="path30"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group10"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector10"
+         d="m 140.98258,71.84348 5.50925,29.88668"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use2028"
+         inkscape:connection-end="#path30"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use2028"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="140.98000304868387"
+         y="71.80763310736795"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 3230.562,-241.52256 c -41,-34 -123,-143 -153,-202 -23,-46 -47,-146 -49,-201 0,-4 -39,-6 -86,-5 l -86,3 -46,105 c -39,90 -56,115 -113,173 -96,96 -172,130 -296,133 -94,2 -180,-6 -268,-25 -70,-15 -158,-43 -170,-53 -5,-4 -18,-8 -30,-8 -12,0 -25,-4 -30,-8 -6,-5 -26,-15 -45,-22 -19,-7 -82,-36 -140,-63 -168,-81 -201,-79 -268,9 -43.9999,59 -58.9999,57 -60.9999,-6 -1,-48 1,-51 38.9999,-75 39,-25 120,-36 120,-16 0,5 17,12 38,17 20,4 39,8 42,9 23,5 232,91 345,141 46,20 156,54 177,54 25,0 23,-8 -15,-45 -50,-48 -73,-155 -48,-217 5,-13 12,-35 15,-50 9,-41 76,-74 228,-114 160,-43.00002 201,-66.00002 234,-137.00002 13,-29 24,-60 24,-69 0,-23 49,-17 63,7 19,34 14,127 -10,173.00002 -15,31 -20,54 -16,78 6,35 -17,84 -38,84 -6,0 -22,9 -36,20 -16,12 -41,20 -64,20 h -38 l 6,85 c 3,47 4,85 1,85 -3,0 -22,-16 -42,-35 -32,-30 -44,-35 -87,-35 -46,0 -49,2 -49,25 0,29 -9,31 -53,9 -42,-22 -77,-54 -88,-81 -22,-57 -49,3 -29,63 14,41 75,114 96,114 7,0 17,8 22,17 9,14 29,17 143,17 128,1 137,0 193,-28 120,-59 215,-194 262,-373 2,-10 33,-13 109,-13 82,0 105,-3 105,-14 0,-28 72,-157.00002 116,-205.00002 67,-74 109,-91 230,-91 105,0 177,19 257,69 46,28 95,101 112,163 27,103.00002 -17,259.00002 -87,311.00002 -43,32 -62,38 -131,42 -49,3 -64,0 -103,-23 -29,-18 -49,-38 -56,-59 -13,-36 -18,-37 -65,-24 -22,6 -43,5 -70,-4 -21,-8 -57,-14 -80,-15 -24,0 -43,-3 -44,-7 0,-5 -3,-21 -5,-37 -7,-42 37,-86 87,-86 43,0 61,-18 63,-61 1,-21 13,-43.00002 37,-68.00002 19,-21 40,-53 45,-72 11,-37 44,-54 44,-22 0,18 20,53 72,130 14,22.00002 28,51.00002 30,64.00002 3,21 10,25 53,29 70,7 75,13 75,76 v 54 h -53 c -32,0 -61,6 -75,16 -15,10 -32,13 -51,9 -58,-12 -43,28 22,61 42,23 147,15 184,-12 16,-12 40,-45 55,-75 25,-48 28,-65 28,-154 0,-82.00002 -4,-104.00002 -19,-124.00002 -18,-24 -41,-22 -41,4 0,16 -50,45 -77,45 -25,-1 -56,-26 -48,-39 3,-6 17,-11 31,-11 21,0 24,-4 24,-38 0,-71 -64,-108 -200,-114 -127,-6 -167,10 -250,106 -32,35 -32,37 -15,56 20,22 35,26 35,10 0,-5 -8,-10 -17,-10 -17,-1 -16,-2 1,-11 43,-26 94,33 81,93.00002 -8,34 -22,36 -35,4 -7,-19 -18,-25 -50,-28 -40,-4 -42,-2 -71,46 -32,52 -34,82 -11,168 16,59 91,161 169,228 40,35 70,66 67,71 -9,15 -48,9 -72,-11 z"
+       id="path31"
+       style="fill:#000000;stroke:#000000;opacity:0.52605416" />
+    <g
+       id="centerline_group_14"
+       inkscape:label="path31 center line">
+      <path
+         id="path31_7644"
+         d="m 1552.721,-481.71103 c 198.5535,60.58386 427.8108,191.33124 637.2672,216.91964"
+         style="fill:none;stroke:#000000;stroke-width:22.277"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path31_7905"
+         d="m 3036.5212,-666.4605 c -62.8823,14.51181 -139.5454,-25.14564 -193.1401,22.36916 -34.4051,45.8704 -42.4223,105.79678 -73.3916,154.16185 -56.2816,102.28494 -146.3837,195.51403 -261.6912,226.93545 -109.3551,23.46282 -222.344,7.93055 -331.9856,-5.05342"
+         style="fill:none;stroke:#000000;stroke-width:22.277"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path31_8126"
+         d="m 3110.4335,-773.82189 c -19.0671,11.03552 -30.7662,30.63986 -39.9614,49.99323 -9.7005,19.95046 -18.0778,41.32466 -33.9509,57.36816"
+         style="fill:none;stroke:#000000;stroke-width:22.277" />
+      <path
+         id="path31_3312"
+         d="m 3036.5212,-666.4605 c 3.7559,173.0555 101.7178,341.52325 251.6907,428.50256"
+         style="fill:none;stroke:#000000;stroke-width:22.277" />
+      <path
+         id="path31_531"
+         d="m 3110.4335,-773.82189 c 8.6552,-150.09162 182.0667,-225.73352 315.0942,-202.14175 83.169,7.23202 180.4508,33.75449 218.4563,116.50018"
+         style="fill:none;stroke:#000000;stroke-width:22.277" />
+      <path
+         id="path31_791"
+         d="m 3643.984,-859.46346 c 168.1891,74.69251 117.1542,334.12324 -11.1053,422.28438 -123.6868,46.30354 -212.0547,22.00599 -245.2397,-66.87213"
+         style="fill:none;stroke:#000000;stroke-width:22.277"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="path31_7058"
+         d="m 2094.6927,-499.54571 c -4.7473,56.35189 15.4111,127.90822 54.0639,168.50047 15.3332,21.12186 53.6732,41.07785 56.7081,70.62922"
+         style="fill:none;stroke:#000000;stroke-width:22.277"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="command_group11"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector11"
+         d="M 43.964284,73.491261 71.774881,162.84008"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use4667"
+         inkscape:connection-end="#path31"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use4667"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="43.96170289396164"
+         y="73.45541091140905"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 2301.2352,1280.9412 c -24,-26 -21,-51 6,-61 15,-6 27,-4 40,7 22,19 22,35 -1,55 -23,21 -25,21 -45,-1 z m 33,-32 c 0,-5 -5,-10 -11,-10 -5,0 -7,5 -4,10 3,6 8,10 11,10 2,0 4,-4 4,-10 z"
+       id="path32"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group12"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector12"
+         d="m 58.677087,81.943623 8.099645,28.854987"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use5280"
+         inkscape:connection-end="#path32"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use5280"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="58.674505861930044"
+         y="81.90777578103703"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 4672.2352,1280.9412 c -21,-4 -27,-22 -17,-50 12,-32 37,-38 61,-15 34,35 6,76 -44,65 z"
+       id="path33"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group13"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector13"
+         d="m 143.75272,81.424519 3.51375,29.748451"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use5215"
+         inkscape:connection-end="#path33"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use5215"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="143.75013909928853"
+         y="81.38866960111798"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 1246.2352,1222.9412 c -15,-10 -22,-25 -22,-49 0,-31 2,-33 39,-37 56,-5 61,-1 61,41 0,31 -5,40 -25,49 -32,15 -26,15 -53,-4 z m 48,-18 c 0,-2 -7,-7 -16,-10 -8,-3 -12,-2 -9,4 6,10 25,14 25,6 z"
+       id="path34"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group14"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector14"
+         d="m 25.965534,83.267765 5.231489,29.488995"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use514"
+         inkscape:connection-end="#path34"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use514"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="25.96295280136246"
+         y="83.23191773421581"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 3459.2352,1221.9412 c -13,-12 -15,-26 -11,-56 6,-33 4,-38 -9,-34 -28,11 -64,-38 -105,-144.00002 -12,-31 -34,-69 -50,-84 -24,-23 -34,-26 -64,-21 l -36,7 v -44 c 0,-49 3,-52 102,-77 38,-10 54,-10 79,0 34,14 45,8 72,-40 55,-102 67,-109 93,-57 9,17 30,51 46,74 l 29,42 30,-18 c 30,-18 32,-18 97,1 85,25 92,32 92,79 0,42 -2,44 -29,30 -10,-6 -27,-8 -39,-5 -29,8 -91,106 -102,162.00002 -10,54 -57,102 -100,102 -22,1 -23,2 -7,11 19,11 22,41 7,70 -14,24 -72,26 -95,2 z"
+       id="path35"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group15"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector15"
+         d="M 102.5482,83.072605 106.01808,112.95"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use284"
+         inkscape:connection-end="#path35"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use284"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="102.54562107217794"
+         y="83.03676096417422"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       d="m 5701.2352,1220.9412 c -23,-25 -22,-79 1,-90 57,-28 102,21 71,76 -18,33 -49,39 -72,14 z"
+       id="path36"
+       style="fill:#000000;stroke:#000000" />
+    <g
+       id="command_group16"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector16"
+         d="m 182.33495,82.8363 0.45719,29.91098"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use4325"
+         inkscape:connection-end="#path36"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use4325"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="182.33236969039672"
+         y="82.80045398955409"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <g
+       inkscape:label="Letras de Ink/Stitch"
+       transform="matrix(8.97658 0 0 -8.97658 944.637 3355.94)"
+       id="g8251"
+       inkstitch:lettering="{&quot;text&quot;: &quot;QUIEREME&quot;, &quot;back_and_forth&quot;: false, &quot;font&quot;: &quot;medium_font&quot;, &quot;scale&quot;: 100, &quot;trim_option&quot;: 3, &quot;use_trim_symbols&quot;: false}"
+       style="stroke:#000000">
+      <g
+         inkscape:label="QUIEREME"
+         id="g1425">
+        <g
+           inkscape:label="Q"
+           id="glyph">
+          <path
+             d="m 31.7198,15.2942 0.0575,1.2599 0.0853,1.3405 0.1012,1.1626 v 0 l 0.0153,0.1757 0.1893,1.3287 0.2367,1.3226 0.2259,0.8809 v 0 l 0.1077,0.42 0.3728,1.2895 0.4605,1.2621 0.2607,0.5977 v 0 l 0.2757,0.632 0.5897,1.2061 0.6972,1.148 0.2253,0.326 v 0 l 0.5373,0.7773 0.8174,1.0618 0.8904,0.938 0.141,0.1322 v 0 l 0.801,0.751 0.9913,0.83 1.0763,0.7172 0.0756,0.0435 v 0 l 1.0432,0.601 1.1573,0.5761 1.1949,0.444 v 0 l 0.0178,0.0066 1.2372,0.3711 1.2564,0.3075 1.1558,0.164 v 0 l 0.1252,0.0178 1.2864,0.1247 1.2926,0.058 1.0579,-0.0404 v 0 l 0.1622,-0.0062 1.2004,-0.0861 1.1909,-0.1775 1.1808,-0.2223 v 0 l 0.0011,-2e-4 1.1674,-0.2954 1.2005,-0.4002 1.2156,-0.4629"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -33.392 -45.9197)"
+             id="autosatinrun1"
+             inkscape:label="AutoSatinar Puntada corriente 1" />
+          <path
+             d="m 61.1478,38.0354 c -3.2419,1.5449 -7.182,2.1641 -10.1731,2.2443 -6.9143,0 -12.4457,-2.3048 -16.5942,-6.9143 -4.1266,-4.6314 -6.1899,-10.8213 -6.1899,-18.5697 0,-7.7703 2.0633,-13.960202 6.1899,-18.5697 4.1485,-4.63146 9.6799,-6.9472 16.5942,-6.9472 6.8923,0 12.4017,2.31574 16.5283,6.9472 4.1266,4.609498 6.1899,10.7994 6.1899,18.5697 0,5.707 -1.1523,10.5908 -3.4571,14.6516 -1.0825,1.9255 -2.3968,3.6116 -3.9431,5.0583 m -9.2515,-0.7868 c -1.8051,0.7741 -3.8273,1.1611 -6.0665,1.1611 -4.829,0 -8.6703,-1.7999 -11.5238,-5.3997 -2.8315,-3.5998 -4.2473,-8.4947 -4.2473,-14.6846 0,-6.21183 1.4158,-11.11766 4.2473,-14.7174618 2.8535,-3.5997982 6.6948,-5.3996982 11.5238,-5.3996982 4.829,0 8.6483,1.7999 11.4579,5.3996982 2.8315,3.5998018 4.2473,8.5056318 4.2473,14.7174618 0,4.3098 -0.6863,7.9919 -2.0591,11.046 -0.7702,1.6624 -1.6669,2.9651 -2.6788,4.237"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -33.392 -45.9197)"
+             inkscape:label="AutoSatinado 2" />
+          <path
+             d="m 61.9808,34.426 -0.147,-0.1603 -1.0125,-1.1046 -1.0126,-1.1045 -0.2404,-0.2623 v 0 l -0.7721,-0.8422 -1.0126,-1.1045 -0.6278,-0.6849 v 0 L 56.771,28.743 55.7585,27.6385 54.7432,26.531"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -33.392 -45.9197)"
+             id="autosatinrun2"
+             inkscape:label="AutoSatinar Puntada corriente 3" />
+          <path
+             d="M 52.2263,28.2175 66.8521,44.1267 M 57.2601,24.8445 71.5846,40.5152"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin2_9004"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -33.392 -45.9197)"
+             inkscape:label="AutoSatinado 4"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           id="g2"
+           inkscape:label="U"
+           transform="translate(71.9521, 0)">
+          <path
+             d="m 94.8102,31.3138 -0.338,-0.5291 -0.5457,-1.2109 -0.4855,-1.2395 -0.1229,-0.4288 v 0 L 93.0748,27.0572 92.785,25.7578 92.552,24.4454 92.5348,24.2596 v 0 L 92.4297,23.1195 92.3411,21.7901 92.292,20.5349 v 0 L 92.289,20.4583 92.2767,18.997 v -1.491 -0.7043 0 -0.7867 -1.491 -1.4557 0 -0.0352 -1.491 -1.491 -0.71613 0 -0.7749 -1.49099 -1.46747 0 V 5.57809 4.0871 2.59611 1.86825 v 0 -0.76314 -1.490989 -1.479231 0 -0.01176 -1.49099 -1.491 -0.73961 0 -0.75138 -1.49099 -1.49099"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -105.344 -45.9197)"
+             id="autosatinrun3"
+             inkscape:label="AutoSatinar Puntada corriente 5" />
+          <path
+             id="autosatin3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 88.9348,-9.33183 V 20.5548 l 0.0741,2.33 0.2222,2.1828 0.3704,2.0357 0.5186,1.8885 0.6667,1.7415 0.8149,1.5943 0.9631,1.4471 1.1112,1.3 1.2645,1.1498 1.4065,0.9965 1.5485,0.8432 1.6905,0.6899 1.833,0.5366 1.974,0.3832 2.116,0.23 2.259,0.0767 2.25,-0.0767 2.108,-0.23 1.967,-0.3832 1.824,-0.5366 1.682,-0.6899 1.54,-0.8432 1.399,-0.9965 1.256,-1.1498 1.119,-1.3 0.97,-1.4471 0.82,-1.5943 0.672,-1.7415 0.522,-1.8885 0.373,-2.0357 0.223,-2.1828 0.075,-2.33 V -2.54642 M 95.6186,-9.33183 V 19.7317 l 0.179,3.6752 0.5371,3.1238 0.8951,2.5723 1.2532,2.0207 0.7717,0.8103 0.8833,0.7022 2.098,1.0804 2.544,0.6482 2.988,0.2161 2.973,-0.2161 2.534,-0.6482 2.092,-1.0804 0.882,-0.7022 0.771,-0.8103 1.253,-2.0207 0.895,-2.5723 0.537,-3.1238 0.179,-3.6752 V -2.7333 M 88.6006,20.596 95.9527,19.6905 m -2.5171,15.5818 5.2878,-4.3461 m 9.0446,9.3243 v -5.9396 m 14.265,0.9614 -5.252,-4.3461 M 126.902,20.596 119.55,19.6905"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -105.344 -45.9197)"
+             inkscape:label="AutoSatinado 6" />
+          <path
+             d="m 123.226,-1.86511 v -0.77475 -1.49099 -1.46762 0 -0.02337 -1.491 -1.49099 -0.728"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -105.344 -45.9197)"
+             id="autosatinrun4"
+             inkscape:label="AutoSatinar Puntada corriente 7" />
+          <path
+             id="autosatin4_8791"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 119.884,-9.33183 v 6.59853 m 6.684,-6.59853 v 6.78541 m 0.334,-0.29066 -7.352,-0.20556"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -105.344 -45.9197)"
+             inkscape:label="AutoSatinado 8"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           id="g3"
+           inkscape:label="I"
+           transform="translate(134.583, 0)">
+          <path
+             d="m 145.135,-1.87824 v 0.15299 1.511814 1.511816 0.52641 0 0.9854 1.51181 1.20583 0 0.30598 1.51181 1.51181 0.37343 0 1.13834 1.5119 1.0528 0 0.459 1.5118 1.5118 0.2204 0 1.2914 1.5118 0.8999 0 0.6119 1.5118 1.5118 0.0675 0 1.4444 1.5118 0.7468 0 0.765 1.5118 1.4263 0 0.0855 1.5118 1.5118 0.5939 0 0.9179 1.5118 1.2733"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -167.975 -45.9197)"
+             id="autosatinrun5"
+             inkscape:label="AutoSatinar Puntada corriente 9" />
+          <path
+             id="autosatin5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 141.81,38.8551 V -6.26068 m 6.651,45.11578 V -6.26068 m 0.332,0.3 h -7.316"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -167.975 -45.9197)"
+             inkscape:label="AutoSatinado 10" />
+          <path
+             d="M 145.135,-5.58127 V -6.26068 -7.77249 -9.2843"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -167.975 -45.9197)"
+             id="autosatinrun6"
+             inkscape:label="AutoSatinar Puntada corriente 11" />
+          <path
+             id="autosatin6_6045"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 148.461,-9.2843 v 3.02362 M 141.81,-9.2843 v 3.02362 m 6.983,-2.82362 h -7.316"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -167.975 -45.9197)"
+             inkscape:label="AutoSatinado 12"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           inkscape:label="E"
+           id="g4"
+           transform="translate(160.515, 0)">
+          <path
+             d="m 170.62,-6.48023 h 1.51 1.51 0.432 v 0 h 1.079 1.51 0.863 v 0 h 0.647 1.51 1.295 v 0 h 0.215 1.511 1.51 0.216 v 0 h 1.294 1.51 0.648 v 0 h 0.863 1.51 1.079 v 0 h 0.431 1.51 1.511"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -193.907 -45.9197)"
+             id="autosatinrun7"
+             inkscape:label="AutoSatinar Puntada corriente 13" />
+          <path
+             id="autosatin7"
+             d="m 194.784,-9.79987 h -24.482 m 24.482,6.63928 h -24.431"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -193.907 -45.9197)"
+             inkscape:label="AutoSatinado 14" />
+          <path
+             d="m 170.353,13.1489 h 0.733 1.512 1.099 v 0 h 0.412 1.512 1.421 v 0 h 0.091 1.512 1.512 0.229 v 0 h 1.282 1.512 0.55 v 0 h 0.962 1.512 0.87 v 0 h 0.642 1.511 1.192 v 0 h 0.32 1.512 1.512"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -193.907 -45.9197)"
+             id="autosatinrun8"
+             inkscape:label="AutoSatinar Puntada corriente 15" />
+          <path
+             id="autosatin8"
+             d="m 193.763,9.82926 h -23.41 m 23.41,6.63924 h -23.41"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -193.907 -45.9197)"
+             inkscape:label="AutoSatinado 16" />
+          <path
+             d="m 167.028,15.0025 v -1.2903 -1.5061 -0.9329 0 V 10.7 9.19398 7.68792 7.54386 v 0 -1.36201 -1.50606 -0.86127 0 -0.64479 -1.50607 -1.506058 -0.0724285 0 -1.4336335 -1.50606 -0.78965 0 -0.71642 -1.50606 -1.50686"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -193.907 -45.9197)"
+             id="autosatinrun9"
+             inkscape:label="AutoSatinar Puntada corriente 17" />
+          <path
+             d="M 163.702,-7.43679 V 37.4854 m 6.651,-44.79564 V 37.2718"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin9"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -193.907 -45.9197)"
+             inkscape:label="AutoSatinado 18" />
+          <path
+             id="autosatin10_1687"
+             d="m 170.302,39.3572 h 25.074 m -25.023,-6.6393 h 25.023 m -0.2,-0.332 v 7.3032"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -193.907 -45.9197)"
+             inkscape:label="AutoSatinado 19"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           id="g5"
+           inkscape:label="R"
+           transform="translate(216.087, 0)">
+          <path
+             d="m 213.943,35.0014 v 0.6636 1.5108 1.511"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             id="autosatinrun10"
+             inkscape:label="AutoSatinar Puntada corriente 20" />
+          <path
+             d="M 217.269,38.6868 V -6.60871 M 210.618,38.6868 V -6.66755 m 6.983,45.15435 h -7.316"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin11"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             inkscape:label="AutoSatinado 21" />
+          <path
+             d="M 213.943,-5.53729 V -6.63813 -8.14896 -9.22263"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             id="autosatinrun11"
+             inkscape:label="AutoSatinar Puntada corriente 22" />
+          <path
+             d="m 210.618,-9.25374 v 2.58619 m 6.651,-2.52397 v 2.58281 m 0.332,-0.29705 -7.316,-0.06474"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin12"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             inkscape:label="AutoSatinado 23" />
+          <path
+             d="m 217.269,-4.52503 h 8.363 c 3.204,0 5.619,0.73532 7.243,2.20597 1.647,1.448704 3.164,3.61078 3.164,6.48623 0,2.87545 -1.517,5.05948 -3.164,6.55213 -0.989,0.8953 -2.27,1.518 -3.845,1.8683 M 217.127,-9.99059 h 8.505 c 5.619,0 9.811,1.17433 12.577,3.52298 2.766,2.34865 4.149,5.89358 4.149,10.63478 0,3.09495 -0.725,5.66311 -2.173,7.70443 -1.427,2.0414 -3.512,3.4572 -6.256,4.2474"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin13"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             inkscape:label="AutoSatinado 24" />
+          <path
+             d="m 231.483,17.4881 -0.713,-0.464 -1.186,-0.6494 -1.205,-0.5814 -0.124,-0.0157 v 0 l -1.322,-0.1671 -1.471,0.0328 -0.862,0.0093 v 0 l -0.503,0.0054 h -1.366 -1.365 -0.431 v 0 H 220 h -1.366 -1.365"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             id="autosatinrun12"
+             inkscape:label="AutoSatinar Puntada corriente 25" />
+          <path
+             d="m 217.269,12.9252 h 8.363 l 1.79,-0.0843 1.608,-0.2533 4.899,3.5314 1.062,0.465 1.045,0.6709 1.029,0.8766 1.012,1.0824 1.723,2.3756 m -22.531,-3.1987 h 7.243 l 1.871,0.1008 1.661,0.3025 1.45,0.5042 1.241,0.7058 1.161,1.0145 1.177,1.4302 1.193,1.8458 0.611,1.1416 m -4.933,-3.7016 4.666,-7.6138"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin14"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             inkscape:label="AutoSatinado 26" />
+          <path
+             d="m 236.707,22.5227 0.632,0.9902 0.668,1.1576 0.546,1.017 v 0 l 0.087,0.1619 0.633,1.1792 0.62,1.1862 0.371,0.7145 v 0 l 0.246,0.473 0.618,1.1876 0.617,1.1875 0.21,0.4044 v 0 l 0.408,0.7831 0.617,1.1875 0.617,1.1875 0.049,0.0944 v 0 l 0.609,1.1707 0.671,1.2905 0.411,0.7913"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             id="autosatinrun13"
+             inkscape:label="AutoSatinar Puntada corriente 27" />
+          <path
+             d="m 241.765,38.6868 -6.289,-12.1306 -0.599,-1.12 M 248.91,38.6868 242.16,25.7331 240.119,22.029 239.8,21.5895 m 0.424,0.0495 -5.453,4.2551"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin15_767"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -249.479 -45.9197)"
+             inkscape:label="AutoSatinado 28"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           inkscape:label="E"
+           id="g6"
+           transform="translate(279.499, 0)">
+          <path
+             d="m 271.07,-6.48023 h 1.51 1.51 0.432 v 0 h 1.079 1.51 0.863 v 0 h 0.647 1.51 1.295 v 0 h 0.215 1.511 1.51 0.216 v 0 h 1.294 1.51 0.648 v 0 h 0.863 1.51 1.079 v 0 h 0.431 1.51 1.511"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -312.891 -45.9197)"
+             id="autosatinrun14"
+             inkscape:label="AutoSatinar Puntada corriente 29" />
+          <path
+             id="autosatin16"
+             d="m 295.234,-9.79987 h -24.482 m 24.482,6.63928 h -24.431"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -312.891 -45.9197)"
+             inkscape:label="AutoSatinado 30" />
+          <path
+             d="m 270.803,13.1489 h 0.733 1.512 1.099 v 0 h 0.412 1.512 1.421 v 0 h 0.091 1.512 1.512 0.229 v 0 h 1.282 1.512 0.55 v 0 h 0.962 1.512 0.87 v 0 h 0.642 1.511 1.192 v 0 h 0.32 1.512 1.512"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -312.891 -45.9197)"
+             id="autosatinrun15"
+             inkscape:label="AutoSatinar Puntada corriente 31" />
+          <path
+             id="autosatin17"
+             d="m 294.213,9.82926 h -23.41 m 23.41,6.63924 h -23.41"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -312.891 -45.9197)"
+             inkscape:label="AutoSatinado 32" />
+          <path
+             d="m 267.478,15.0025 v -1.2903 -1.5061 -0.9329 0 V 10.7 9.19398 7.68792 7.54386 v 0 -1.36201 -1.50606 -0.86127 0 -0.64479 -1.50607 -1.506058 -0.0724285 0 -1.4336335 -1.50606 -0.78965 0 -0.71642 -1.50606 -1.50686"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -312.891 -45.9197)"
+             id="autosatinrun16"
+             inkscape:label="AutoSatinar Puntada corriente 33" />
+          <path
+             d="M 264.152,-7.43679 V 37.4854 m 6.651,-44.79564 V 37.2718"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin18"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -312.891 -45.9197)"
+             inkscape:label="AutoSatinado 34" />
+          <path
+             id="autosatin19_4557"
+             d="m 270.752,39.3572 h 25.074 m -25.023,-6.6393 h 25.023 m -0.2,-0.332 v 7.3032"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -312.891 -45.9197)"
+             inkscape:label="AutoSatinado 35"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           id="g7"
+           inkscape:label="M"
+           transform="translate(334.321, 0)">
+          <path
+             d="m 314.601,35.1248 v 0.665 1.5118 1.5118"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -367.713 -45.9197)"
+             id="autosatinrun17"
+             inkscape:label="AutoSatinar Puntada corriente 36" />
+          <path
+             d="M 317.827,38.8134 V -3.23201 l 1.45,-1.22253 V -8.99828 M 311.374,38.8134 V -9.22436 m -0.939,26.13766 h 7.982"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin20"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -367.713 -45.9197)"
+             inkscape:label="AutoSatinado 37" />
+          <path
+             d="m 316.084,-8.93682 v 4.54366 l 1.743,1.16115 12.677,33.71521 m -8.483,-39.70756 12.545,33.45186 v 5.8872 m -12.71,-19.0346 h 9.026"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin21"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -367.713 -45.9197)"
+             inkscape:label="AutoSatinado 38" />
+          <path
+             d="m 337.187,30.4832 12.676,-33.71521 1.527,-0.97694 V -8.93682 M 333.092,30.1147 v -5.8872 l 12.61,-33.45186 m -8.864,20.30446 h 8.657"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin22"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -367.713 -45.9197)"
+             inkscape:label="AutoSatinado 39" />
+          <path
+             d="m 348.197,-8.81407 v 4.54374 l 1.666,1.03832 v 1.05174 m 6.487,-7.04409 v 7.41499 m -8.561,-6.68418 8.968,-0.45133"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin23"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -367.713 -45.9197)"
+             inkscape:label="AutoSatinado 40" />
+          <path
+             d="m 353.107,-1.83926 v 1.341846 1.497405 0.840559 0 0.65685 1.4974 1.49741 0.02815 0 1.46925 1.49741 0.71315 0 0.78425 1.49738 1.3982 0 0.0992 1.4974 1.4974 0.5858 0 0.9135 1.5118 1.2545 0 0.2573 1.5118 1.5118 0.3989 0 1.1129 1.5118 1.0551 0 0.4568 1.5118 1.5118 0.1994 0 1.3124 1.5118 0.8556 0 0.6562 1.5118 1.5118"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -367.713 -45.9197)"
+             id="autosatinrun18"
+             inkscape:label="AutoSatinar Puntada corriente 41" />
+          <path
+             d="M 356.35,38.8134 V -1.80937 M 349.863,38.8134 V -2.18027 m -0.929,19.46197 h 8.596"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin24_566"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -367.713 -45.9197)"
+             inkscape:label="AutoSatinado 42"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           inkscape:label="E"
+           id="g8"
+           transform="translate(408.159, 0)">
+          <path
+             d="m 379.689,-6.48023 h 1.51 1.51 0.432 v 0 h 1.078 1.511 0.863 v 0 h 0.647 1.51 1.295 v 0 h 0.215 1.51 1.511 0.216 v 0 h 1.294 1.51 0.647 v 0 h 0.863 1.511 1.078 v 0 h 0.432 1.51 1.51"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -441.551 -45.9197)"
+             id="autosatinrun19"
+             inkscape:label="AutoSatinar Puntada corriente 43" />
+          <path
+             id="autosatin25"
+             d="m 403.852,-9.79987 h -24.481 m 24.481,6.63928 h -24.43"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -441.551 -45.9197)"
+             inkscape:label="AutoSatinado 44" />
+          <path
+             d="m 379.422,13.1489 h 0.733 1.511 1.1 v 0 h 0.412 1.512 1.42 v 0 h 0.092 1.512 1.511 0.23 v 0 h 1.282 1.512 0.55 v 0 h 0.962 1.512 0.87 v 0 h 0.641 1.512 1.191 v 0 h 0.321 1.512 1.512"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -441.551 -45.9197)"
+             id="autosatinrun20"
+             inkscape:label="AutoSatinar Puntada corriente 45" />
+          <path
+             id="autosatin26"
+             d="m 402.832,9.82926 h -23.41 m 23.41,6.63924 h -23.41"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -441.551 -45.9197)"
+             inkscape:label="AutoSatinado 46" />
+          <path
+             d="m 376.097,15.0025 v -1.2903 -1.5061 -0.9329 0 V 10.7 9.19398 7.68792 7.54386 v 0 -1.36201 -1.50606 -0.86127 0 -0.64479 -1.50607 -1.506058 -0.0724285 0 -1.4336335 -1.50606 -0.78965 0 -0.71642 -1.50606 -1.50686"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.18451 0 0 1.18451 -441.551 -45.9197)"
+             id="autosatinrun21"
+             inkscape:label="AutoSatinar Puntada corriente 47" />
+          <path
+             d="M 372.771,-7.43679 V 37.4854 m 6.651,-44.79564 V 37.2718"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="autosatin27"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -441.551 -45.9197)"
+             inkscape:label="AutoSatinado 48" />
+          <path
+             id="autosatin28_1858"
+             d="m 379.371,39.3572 h 25.074 m -25.023,-6.6393 h 25.023 m -0.2,-0.332 v 7.3032"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;letter-spacing:50px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.18451 0 0 1.18451 -441.551 -45.9197)"
+             inkscape:label="AutoSatinado 49"
+             inkstitch:trim_after="true" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="Letras de Ink/Stitch"
+       transform="matrix(17.2907 0 0 -17.2907 1007.44 2116.31)"
+       id="g9301"
+       inkstitch:lettering="{&quot;text&quot;: &quot;LOLA&quot;, &quot;back_and_forth&quot;: false, &quot;font&quot;: &quot;medium_font&quot;, &quot;scale&quot;: 100, &quot;trim_option&quot;: 3, &quot;use_trim_symbols&quot;: false}"
+       style="stroke:#000000">
+      <g
+         inkscape:label="LOLA"
+         id="g1132">
+        <g
+           inkscape:label="L"
+           id="g9">
+          <path
+             d="M 22.4425 49.5311 L 22.4425 78.8896 M 27.0646 49.5311 L 27.0646 78.9223"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             id="autosatin2"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.70442 0 0 1.70442 -38.2514 -141.275)"
+             inkscape:label="AutoSatinado 1" />
+          <path
+             d="M 26.3522 81.169 L 25.9006 81.169 L 24.3919 81.169 L 22.8828 81.169"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:0.5px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.70442 0 0 1.70442 -38.2514 -141.275)"
+             id="autosatinrun22"
+             inkscape:label="AutoSatinar Puntada corriente 2" />
+          <path
+             d="M 22.9253 83.4157 L 43.6996 83.4157 M 22.8403 78.9223 L 43.6996 78.9223"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             id="autosatin4_1903"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.70442 0 0 1.70442 -38.2514 -141.275)"
+             inkscape:label="AutoSatinado 3"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           id="g10"
+           inkscape:label="O"
+           transform="translate(54.2851, 0)">
+          <path
+             d="M 58.7116 75.3091 L 58.3951 74.6856 L 57.8801 73.4463 L 57.4777 72.1681 L 57.3981 71.8241 L 57.3981 71.8241 L 57.1752 70.8603 L 56.9427 69.5387 L 56.8546 68.1983 L 56.8506 68.1385 L 56.8506 68.1385 L 56.7664 66.8579 L 56.7796 65.5163 L 56.8523 64.4093 L 56.8523 64.4093 L 56.8677 64.1747 L 56.9581 62.8334 L 57.2135 61.5135 L 57.4018 60.7251 L 57.4018 60.7251 L 57.5256 60.2067 L 57.9521 58.9348 L 58.4774 57.6988 L 58.721 57.2429 L 58.721 57.2429 L 59.109 56.5169 L 59.8607 55.404 L 60.6956 54.3783 L 60.872 54.2073 L 60.872 54.2073 L 61.6228 53.4795 L 62.6196 52.6644 L 63.7235 51.9939 L 63.8214 51.9447 L 63.8214 51.9447 L 64.8749 51.4163 L 66.1012 51.0096 L 67.3239 50.6898 L 67.3239 50.6898 L 67.3495 50.6831 L 68.6326 50.5293 L 69.9219 50.4444 L 71.0443 50.495 L 71.0443 50.495 L 71.2109 50.5025 L 72.4955 50.6349 L 73.7551 50.9026 L 74.6988 51.1969 L 74.6988 51.1969 L 74.9874 51.2869 L 76.1643 51.8068 L 77.2785 52.4575 L 77.9645 52.9681 L 77.9645 52.9681 L 78.3107 53.2257 L 79.2501 54.1099 L 80.1173 55.0886 L 80.522 55.6661 L 80.522 55.6661 L 80.8877 56.188 L 81.5685 57.3437 L 82.1138 58.5709 L 82.2593 58.9573 L 82.2593 58.9573 L 82.5874 59.8282 L 82.9101 61.1325 L 83.1765 62.45 L 83.1883 62.5654 L 83.1883 62.5654 L 83.3134 63.7853 L 83.4015 65.1269 L 83.4777 66.288"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:0.5px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.70442 0 0 1.70442 -92.5365 -141.275)"
+             id="autosatinrun23"
+             inkscape:label="AutoSatinar Puntada corriente 4" />
+          <path
+             id="autosatin6_2471"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             d="M 85.9146 66.288 L 85.6457 62.4439 L 85.3097 60.6763 L 84.8392 59.0116 L 84.2342 57.4499 L 83.4949 55.9912 L 82.6211 54.6355 L 81.6128 53.3827 L 80.4923 52.2511 L 79.2818 51.2704 L 77.9811 50.4406 L 76.5903 49.7617 L 75.1094 49.2336 L 73.5385 48.8564 L 71.8774 48.6301 L 70.1262 48.5547 L 68.3693 48.6301 L 66.7025 48.8564 L 65.1259 49.2336 L 63.6393 49.7617 L 62.2428 50.4406 L 60.9364 51.2704 L 59.7201 52.2511 L 58.5938 53.3827 L 57.5856 54.6355 L 56.7118 55.9912 L 55.9725 57.4499 L 55.3675 59.0116 L 54.897 60.6763 L 54.5609 62.4439 L 54.2921 66.288 L 54.5609 70.1321 L 54.897 71.8997 L 55.3675 73.5644 L 55.9725 75.1261 L 56.7118 76.5848 L 57.5856 77.9405 L 58.5938 79.1933 L 59.7201 80.3195 L 60.9364 81.2955 L 62.2428 82.1214 L 63.6393 82.7971 L 65.1259 83.3227 L 66.7025 83.6981 L 68.3693 83.9234 L 70.1262 83.9984 L 71.8774 83.9234 L 73.5385 83.6981 L 75.1094 83.3227 L 76.5903 82.7971 L 77.9811 82.1214 L 79.2818 81.2955 L 80.4923 80.3195 L 81.6128 79.1933 L 82.6211 77.9355 L 83.4949 76.5762 L 84.2342 75.1153 L 84.8392 73.5529 L 85.3097 71.889 L 85.6457 70.1235 Z M 81.0408 66.288 L 80.8563 63.2204 L 80.3029 60.4932 L 79.3804 58.1063 L 78.089 56.0599 L 76.4931 54.4181 L 74.6339 53.2454 L 72.5116 52.5418 L 70.1262 52.3073 L 67.7379 52.5418 L 65.6071 53.2454 L 63.7336 54.4181 L 62.1176 56.0599 L 60.8262 58.1063 L 59.9038 60.4932 L 59.3504 63.2204 L 59.1659 66.288 L 59.3504 69.3456 L 59.9038 72.0656 L 60.8262 74.4482 L 62.1176 76.4932 L 63.7336 78.135 L 65.6071 79.3077 L 67.7379 80.0113 L 70.1262 80.2458 L 72.5116 80.0113 L 74.6339 79.3077 L 76.4931 78.135 L 78.089 76.4932 L 79.3804 74.4482 L 80.3029 72.0656 L 80.8563 69.3456 Z M 77.9129 76.3582 L 81.789 79.3283 M 70.1262 80.0582 L 70.1262 84.1861 M 62.2938 76.3582 L 58.4177 79.3283 M 59.4096 66.288 L 54.0484 66.288 M 62.2938 56.1937 L 58.4177 53.2489 M 70.1262 52.4949 L 70.1262 48.3671 M 77.9129 56.1937 L 81.789 53.2489"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.70442 0 0 1.70442 -92.5365 -141.275)"
+             inkscape:label="AutoSatinado 5"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           inkscape:label="L"
+           id="g11"
+           transform="translate(126.237, 0)">
+          <path
+             d="M 98.818 67.8904 L 98.818 67.6628 L 98.818 66.1518 L 98.818 64.6408 L 98.818 64.2185 L 98.818 64.2185 L 98.818 63.1299 L 98.818 61.6189 L 98.818 60.5467 L 98.818 60.5467 L 98.818 60.108 L 98.818 58.597 L 98.818 57.086 L 98.818 56.8748 L 98.818 56.8748 L 98.818 55.5751 L 98.818 54.0641 L 98.818 53.2029 L 98.818 53.2029 L 98.818 52.5531 L 98.818 51.0422 L 98.818 49.5311"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:0.5px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.70442 0 0 1.70442 -164.488 -141.275)"
+             id="autosatinrun24"
+             inkscape:label="AutoSatinar Puntada corriente 6" />
+          <path
+             d="M 96.507 49.5311 L 96.507 78.8896 M 101.129 49.5311 L 101.129 78.9223"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             id="autosatin10"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.70442 0 0 1.70442 -164.488 -141.275)"
+             inkscape:label="AutoSatinado 7" />
+          <path
+             d="M 100.417 81.169 L 99.9651 81.169 L 98.4564 81.169 L 96.9473 81.169"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:0.5px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.70442 0 0 1.70442 -164.488 -141.275)"
+             id="autosatinrun25"
+             inkscape:label="AutoSatinar Puntada corriente 8" />
+          <path
+             d="M 96.9898 83.4157 L 117.764 83.4157 M 96.9048 78.9223 L 117.764 78.9223"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             id="autosatin15_4957"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.70442 0 0 1.70442 -164.488 -141.275)"
+             inkscape:label="AutoSatinado 9"
+             inkstitch:trim_after="true" />
+        </g>
+        <g
+           id="g12"
+           inkscape:label="A"
+           transform="translate(180.471, 0)">
+          <path
+             d="M 137.01 72.6304 L 138.407 72.6304 L 139.778 72.6304 L 140.443 72.6304 L 140.443 72.6304 L 141.148 72.6304 L 142.519 72.6304 L 143.877 72.6304 L 143.877 72.6304 L 143.89 72.6304 L 145.26 72.6304 L 146.631 72.6304 L 147.31 72.6304 L 147.31 72.6304 L 148.002 72.6304 L 149.372 72.6304 L 150.743 72.6304"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:0.5px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.70442 0 0 1.70442 -218.722 -141.275)"
+             id="autosatinrun26"
+             inkscape:label="AutoSatinar Puntada corriente 10" />
+          <path
+             id="autosatin19"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             d="M 150.27 70.2255 L 137.708 70.2255 M 151.712 75.0352 L 136.312 75.0352 M 136.443 75.2757 L 137.978 69.985"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:contour_underlay="True"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:satin_column="True"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.70442 0 0 1.70442 -218.722 -141.275)"
+             inkscape:label="AutoSatinado 11" />
+          <path
+             d="M 134.555 72.9624 L 134.217 73.8575 L 133.644 75.3686 L 133.295 76.2855 L 133.295 76.2855 L 133.068 76.8802 L 132.492 78.392 L 132.029 79.6063 L 132.029 79.6063 L 131.916 79.9037 L 131.34 81.4154 L 130.764 82.9272"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:0.5px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             inkstitch:running_stitch_length_mm="1.2"
+             transform="matrix(1.70442 0 0 1.70442 -218.722 -141.275)"
+             id="autosatinrun27"
+             inkscape:label="AutoSatinar Puntada corriente 12" />
+          <path
+             id="autosatin24"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             d="M 133.2 82.9272 L 136.312 74.5525 L 137.708 70.7083 L 144.471 52.7594 L 144.471 49.6083 M 128.327 82.9272 L 141.369 49.5427 M 133.646 65.3321 L 140.888 65.3321"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:satin_column="True"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:contour_underlay="True"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.70442 0 0 1.70442 -218.722 -141.275)"
+             inkscape:label="AutoSatinado 13" />
+          <path
+             id="autosatin28_6640"
+             style="-inkscape-font-specification:sans-serif;baseline-shift:baseline;direction:ltr;dominant-baseline:auto;fill:none;fill-opacity:1;font-family:sans-serif;font-feature-settings:normal;font-size:106.667px;font-stretch:normal;font-style:normal;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;letter-spacing:50px;line-height:100%;shape-padding:0;stroke:#000000;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1px;text-align:start;text-anchor:start;text-decoration-style:solid;text-decoration-color:#000000;text-decoration-line:none;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;word-spacing:0px;writing-mode:lr-tb"
+             d="M 146.609 49.5427 L 159.469 82.9073 M 143.484 49.6687 L 143.484 52.7013 L 154.907 82.8874 M 146.44 65.2718 L 154.345 65.2718"
+             inkstitch:zigzag_spacing_mm="0.4"
+             inkstitch:satin_column="True"
+             inkstitch:pull_compensation_mm="0.2"
+             inkstitch:center_walk_underlay="False"
+             inkstitch:center_walk_underlay_stitch_length_mm="1.2"
+             inkstitch:contour_underlay="True"
+             inkstitch:zigzag_underlay="False"
+             inkstitch:fill_underlay="False"
+             inkstitch:reverse_rails="none"
+             transform="matrix(1.70442 0 0 1.70442 -218.722 -141.275)"
+             inkscape:label="AutoSatinado 14"
+             inkstitch:trim_after="true" />
+        </g>
+      </g>
+    </g>
+    <path
+       id="path1"
+       style="stroke:#000000;stroke-width:1px;fill:none"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)"
+       d="M5.6148,12.83295782773579 249.24654217226418,12.83295782773579 249.24654217226418,142.5922  M5.6148000000000025,7.499642172264203 251.9132,7.499642172264203 254.5798578277358,10.166300000000007 254.5798578277358,142.5922  M232.84937999999997,14.166286741603686 232.84937999999997,6.166313258396313  M247.9132132583963,28.97490999999996 255.91318674160368,28.97490999999996  "
+       inkstitch:satin_column="true" />
+    <g
+       id="command_group17"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector17"
+         d="m 113.49698,-22.464475 5.34253,29.9641172"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use7144"
+         inkscape:connection-end="#path1"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use7144"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="113.4944022948196"
+         y="-22.500322366173265"
+         inkscape:label="marcador de instrucción" />
+    </g>
+    <path
+       id="path2"
+       style="stroke:#000000;stroke-width:1px;fill:none"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)"
+       d="M251.9132,139.9255421722642 8.281457827735792,139.9255421722642 8.281457827735792,10.166300000000007  M251.9132,145.2588578277358 5.6148,145.2588578277358 2.948142172264209,142.5922 2.948142172264209,10.1663  M24.678620000000024,138.5922132583963 24.678620000000024,146.59218674160368  M9.614786741603686,123.78359000000003 1.6148132583963135,123.78359000000003  "
+       inkstitch:satin_column="true" />
+    <g
+       id="command_group18"
+       inkscape:label="Ink/Stich Instrucción: Trim thread after sewing this object"
+       transform="matrix(29.4706 0 0 -29.4706 346.047 4559.06)">
+      <path
+         id="command_connector18"
+         d="M 75.128541,11.814125 126.76401,78.379243"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use9959"
+         inkscape:connection-end="#path2"
+         inkscape:label="conector"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use9959"
+         xlink:href="#inkstitch_trim"
+         height="100%"
+         width="100%"
+         x="75.12595830925326"
+         y="11.77827878692294"
+         inkscape:label="marcador de instrucción" />
+    </g>
+  </g>
+</svg>
